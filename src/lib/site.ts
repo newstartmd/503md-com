@@ -24,8 +24,6 @@ export const NAV = [
 // integration-agnostic: the portal is built to hook into either or both of
 // these (and more) once a fulfillment decision is made — nothing here is wired
 // to a single vendor. Edit this list to add/rename a program in one place.
-// NOTE: "Virtual ClinicOS" is a placeholder for the second program Michael
-// referenced as "the other company" — confirm the exact name before launch.
 export const PROGRAMS = [
   { key: "locumtele", label: "LocumTele" },
   { key: "virtualclinicos", label: "Virtual ClinicOS" },
