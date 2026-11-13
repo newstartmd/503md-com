@@ -810,7 +810,7 @@
  "kpv": {
   "slug": "kpv",
   "name": "KPV",
-  "tier": 3,
+  "tier": 2,
   "grade": "C",
   "gradeLetter": "C",
   "classKey": "immune",
@@ -825,7 +825,7 @@
   "mechanism": "NF-κB anti-inflammatory.",
   "oneLiner": "NF-κB anti-inflammatory.",
   "fda": "Not approved.",
-  "compounding": "Removed from 503A Category 2 on ~Apr 22 2026 after nominations were withdrawn; PCAC voted Jul 23-24 2026 to recommend 503A bulks-list inclusion, but no rulemaking yet, so not lawfully compoundable and not in Category 1. FDA list:",
+  "compounding": "Covered by HHS's interim enforcement-discretion policy for compounded peptides (filed Oct 28, 2026) — limited to TOPICAL or ORAL only (no injection). FDA will exercise enforcement discretion for 503A compounding of KPV (acetate) that meets the policy's conditions: single ingredient only (no blends), a 503A pharmacy only (503B is excluded), and an FDA-registered source with a certificate of analysis. This is enforcement discretion, NOT an FDA approval or a 503A bulks-list listing, and holds only until FDA completes bulks-list rulemaking. FDA reviewers found no human safety studies for it.",
   "dea": "Not controlled.",
   "wada": "Not listed on 2026 Prohibited List (no matching section found)",
   "studyCount": 1,
@@ -839,7 +839,8 @@
     "design": "preclinical (animal/lab — not a human study)",
     "n": ""
    }
-  ]
+  ],
+  "updatedNote": "Regulatory status updated 2026-11-13: compoundable under the HHS interim enforcement-discretion policy (topical/oral only, no injection)."
  },
  "liraglutide": {
   "slug": "liraglutide",
@@ -1063,7 +1064,7 @@
  "mots-c": {
   "slug": "mots-c",
   "name": "MOTS-c",
-  "tier": 3,
+  "tier": 2,
   "grade": "C",
   "gradeLetter": "C",
   "classKey": "longevity",
@@ -1080,7 +1081,7 @@
   "mechanism": "AMPK activation.",
   "oneLiner": "AMPK activation.",
   "fda": "Not approved.",
-  "compounding": "Removed from 503A Category 2 on ~Apr 22 2026 after nominations were withdrawn; PCAC voted Jul 23-24 2026 to recommend 503A bulks-list inclusion, but no rulemaking yet, so not lawfully compoundable and not in Category 1. FDA list:",
+  "compounding": "Covered by HHS's interim enforcement-discretion policy for compounded peptides (filed Oct 28, 2026) — limited to INJECTION (SC/IM) only. FDA will exercise enforcement discretion for 503A compounding of MOTS-c (acetate) that meets the policy's conditions: single ingredient only (no blends), a 503A pharmacy only (503B is excluded), an FDA-registered source with a certificate of analysis, and a standard FDA-cleared syringe (injector pens do not qualify). This is enforcement discretion, NOT an FDA approval or a 503A bulks-list listing, and holds only until FDA completes bulks-list rulemaking. FDA reviewers found no human safety studies for it.",
   "dea": "Not controlled.",
   "wada": "S4.4 Metabolic modulators (incl. insulins & mimetics, AMPK activators) — Listed by WADA as an AMPK activator under S4.4 (verify wording in PDF section S4.4); also captured by S0 as non-approved.",
   "studyCount": 1,
@@ -1094,7 +1095,8 @@
     "design": "preclinical (animal/lab — not a human study)",
     "n": ""
    }
-  ]
+  ],
+  "updatedNote": "Regulatory status updated 2026-11-13: compoundable under the HHS interim enforcement-discretion policy (injection only)."
  },
  "nandrolone": {
   "slug": "nandrolone",
@@ -1524,7 +1526,7 @@
  "tb-500-thymosin-beta-4": {
   "slug": "tb-500-thymosin-beta-4",
   "name": "TB-500 / Thymosin β4",
-  "tier": 3,
+  "tier": 2,
   "grade": "B (Tβ4) / C (TB-500)",
   "gradeLetter": "B",
   "classKey": "healing",
@@ -1539,7 +1541,7 @@
   "mechanism": "Tβ4 sequesters G-actin; TB-500 = LKKTETQ fragment.",
   "oneLiner": "Tβ4 sequesters G-actin; TB-500 = LKKTETQ fragment.",
   "fda": "Not approved.",
-  "compounding": "Removed from 503A Category 2 on ~Apr 22 2026 after nominations were withdrawn; PCAC voted Jul 23-24 2026 to recommend 503A bulks-list inclusion, but no rulemaking yet, so not lawfully compoundable and not in Category 1. FDA list:",
+  "compounding": "Covered by HHS's interim enforcement-discretion policy for compounded peptides (filed Oct 28, 2026) — limited to INJECTION (SC/IM) only. FDA will exercise enforcement discretion for 503A compounding of TB-500 (thymosin beta-4 acetate) that meets the policy's conditions: single ingredient only (no blends), a 503A pharmacy only (503B is excluded), an FDA-registered source with a certificate of analysis, and a standard FDA-cleared syringe (injector pens do not qualify). This is enforcement discretion, NOT an FDA approval or a 503A bulks-list listing, and holds only until FDA completes bulks-list rulemaking. FDA reviewers found no human safety studies for it.",
   "dea": "Not controlled.",
   "wada": "S2.3 Growth factors & modulators (IGF-1/mecasermin & analogues, MGFs, thymosin-β4 & derivatives e.g. TB-500, HGF)",
   "studyCount": 1,
@@ -1553,7 +1555,8 @@
     "design": "RCT",
     "n": ""
    }
-  ]
+  ],
+  "updatedNote": "Regulatory status updated 2026-11-13: compoundable under the HHS interim enforcement-discretion policy (injection only)."
  },
  "tesamorelin": {
   "slug": "tesamorelin",
@@ -1967,7 +1970,7 @@
  "epitalon": {
   "slug": "epitalon",
   "name": "Epitalon",
-  "tier": 3,
+  "tier": 2,
   "grade": "C",
   "gradeLetter": "C",
   "classKey": "bioregulator",
@@ -1984,7 +1987,7 @@
   "mechanism": "Claimed telomerase activation.\n(East) Epithalamin = bovine pineal peptide extract; Epitalon = synthetic tetrapeptide Ala-Glu-Asp-Gly. In telomerase-negative human fetal fibroblasts, Epitalon induced telomerase catalytic-subunit expression and telomere elongation (in vitro only) 3.",
   "oneLiner": "Claimed telomerase activation.",
   "fda": "Not approved.",
-  "compounding": "Removed from 503A Category 2 on ~Apr 22 2026 after nominations were withdrawn; PCAC voted Jul 23-24 2026 to recommend 503A bulks-list inclusion, but no rulemaking yet, so not lawfully compoundable and not in Category 1. FDA list:",
+  "compounding": "Covered by HHS's interim enforcement-discretion policy for compounded peptides (filed Oct 28, 2026) — limited to INJECTION (SC/IM) only. FDA will exercise enforcement discretion for 503A compounding of Epitalon (acetate) that meets the policy's conditions: single ingredient only (no blends), a 503A pharmacy only (503B is excluded), an FDA-registered source with a certificate of analysis, and a standard FDA-cleared syringe (injector pens do not qualify). This is enforcement discretion, NOT an FDA approval or a 503A bulks-list listing, and holds only until FDA completes bulks-list rulemaking. FDA reviewers found no human safety studies for it.",
   "dea": "Not controlled.",
   "wada": "Not listed on 2026 Prohibited List (no matching section found)",
   "studyCount": 2,
@@ -2007,7 +2010,8 @@
     "design": "observational",
     "n": ""
    }
-  ]
+  ],
+  "updatedNote": "Regulatory status updated 2026-11-13: compoundable under the HHS interim enforcement-discretion policy (injection only)."
  },
  "somatropin-hgh": {
   "slug": "somatropin-hgh",
@@ -2304,7 +2308,7 @@
  "semax": {
   "slug": "semax",
   "name": "Semax (Семакс, Met-Glu-His-Phe-Pro-Gly-Pro)",
-  "tier": 3,
+  "tier": 2,
   "grade": "B-",
   "gradeLetter": "B",
   "classKey": "nootropic",
@@ -2319,7 +2323,7 @@
   "mechanism": "Tuftsin analog / ACTH(4-10) analog.\n(East) ACTH(4-7) analog with Pro-Gly-Pro; neurotrophic (BDNF) effects mainly in animal work; no corticotropic activity.",
   "oneLiner": "Tuftsin analog / ACTH(4-10) analog.",
   "fda": "Not approved.",
-  "compounding": "Semax: Removed from 503A Category 2 on ~Apr 22 2026 after nominations were withdrawn; PCAC voted Jul 23-24 2026 to recommend 503A bulks-list inclusion, but no rulemaking yet, so not lawfully compoundable and not in Category 1. FDA list: Selank: nominated-but-withdrawn.",
+  "compounding": "Covered by HHS's interim enforcement-discretion policy for compounded peptides (filed Oct 28, 2026) — limited to NASAL use only. FDA will exercise enforcement discretion for 503A compounding of Semax (free base) that meets the policy's conditions: single ingredient only (no blends), a 503A pharmacy only (503B is excluded), and an FDA-registered source with a certificate of analysis. This is enforcement discretion, NOT an FDA approval or a 503A bulks-list listing, and holds only until FDA completes bulks-list rulemaking. The policy does not establish that it is safe or effective.",
   "dea": "Not controlled.",
   "wada": "Not listed on 2026 Prohibited List (no matching section found)",
   "studyCount": 3,
@@ -2351,7 +2355,8 @@
     "design": "other/unspecified",
     "n": ""
    }
-  ]
+  ],
+  "updatedNote": "Regulatory status updated 2026-11-13: compoundable under the HHS interim enforcement-discretion policy (nasal only)."
  },
  "actovegin": {
   "slug": "actovegin",

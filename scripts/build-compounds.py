@@ -51,6 +51,91 @@ OVERRIDES = {
         ),
         "updatedNote": "Regulatory status updated 2026-11-13 for the HHS interim enforcement-discretion policy.",
     },
+    # 2026-11-13: the same HHS interim enforcement-discretion policy (Oct 28,
+    # 2026) covers five more peptides besides BPC-157, each limited to specific
+    # routes of administration. They move Tier 3 -> Tier 2 (compoundable under
+    # enforcement discretion, NOT approved). Evidence grade is left UNCHANGED —
+    # FDA reviewers found no human safety studies for KPV, TB-500, MOTS-c or
+    # Epitalon, so the human-data picture has not improved. Confirmed against
+    # LegitScript's HHS-policy guidance (route table) and HHS policy coverage.
+    "tb-500-thymosin-beta-4": {
+        "tier": 2,
+        "compounding": (
+            "Covered by HHS's interim enforcement-discretion policy for compounded "
+            "peptides (filed Oct 28, 2026) — limited to INJECTION (SC/IM) only. FDA "
+            "will exercise enforcement discretion for 503A compounding of TB-500 "
+            "(thymosin beta-4 acetate) that meets the policy's conditions: single "
+            "ingredient only (no blends), a 503A pharmacy only (503B is excluded), an "
+            "FDA-registered source with a certificate of analysis, and a standard "
+            "FDA-cleared syringe (injector pens do not qualify). This is enforcement "
+            "discretion, NOT an FDA approval or a 503A bulks-list listing, and holds "
+            "only until FDA completes bulks-list rulemaking. FDA reviewers found no "
+            "human safety studies for it."
+        ),
+        "updatedNote": "Regulatory status updated 2026-11-13: compoundable under the HHS interim enforcement-discretion policy (injection only).",
+    },
+    "mots-c": {
+        "tier": 2,
+        "compounding": (
+            "Covered by HHS's interim enforcement-discretion policy for compounded "
+            "peptides (filed Oct 28, 2026) — limited to INJECTION (SC/IM) only. FDA "
+            "will exercise enforcement discretion for 503A compounding of MOTS-c "
+            "(acetate) that meets the policy's conditions: single ingredient only (no "
+            "blends), a 503A pharmacy only (503B is excluded), an FDA-registered "
+            "source with a certificate of analysis, and a standard FDA-cleared syringe "
+            "(injector pens do not qualify). This is enforcement discretion, NOT an "
+            "FDA approval or a 503A bulks-list listing, and holds only until FDA "
+            "completes bulks-list rulemaking. FDA reviewers found no human safety "
+            "studies for it."
+        ),
+        "updatedNote": "Regulatory status updated 2026-11-13: compoundable under the HHS interim enforcement-discretion policy (injection only).",
+    },
+    "epitalon": {
+        "tier": 2,
+        "compounding": (
+            "Covered by HHS's interim enforcement-discretion policy for compounded "
+            "peptides (filed Oct 28, 2026) — limited to INJECTION (SC/IM) only. FDA "
+            "will exercise enforcement discretion for 503A compounding of Epitalon "
+            "(acetate) that meets the policy's conditions: single ingredient only (no "
+            "blends), a 503A pharmacy only (503B is excluded), an FDA-registered "
+            "source with a certificate of analysis, and a standard FDA-cleared syringe "
+            "(injector pens do not qualify). This is enforcement discretion, NOT an "
+            "FDA approval or a 503A bulks-list listing, and holds only until FDA "
+            "completes bulks-list rulemaking. FDA reviewers found no human safety "
+            "studies for it."
+        ),
+        "updatedNote": "Regulatory status updated 2026-11-13: compoundable under the HHS interim enforcement-discretion policy (injection only).",
+    },
+    "kpv": {
+        "tier": 2,
+        "compounding": (
+            "Covered by HHS's interim enforcement-discretion policy for compounded "
+            "peptides (filed Oct 28, 2026) — limited to TOPICAL or ORAL only (no "
+            "injection). FDA will exercise enforcement discretion for 503A compounding "
+            "of KPV (acetate) that meets the policy's conditions: single ingredient "
+            "only (no blends), a 503A pharmacy only (503B is excluded), and an "
+            "FDA-registered source with a certificate of analysis. This is enforcement "
+            "discretion, NOT an FDA approval or a 503A bulks-list listing, and holds "
+            "only until FDA completes bulks-list rulemaking. FDA reviewers found no "
+            "human safety studies for it."
+        ),
+        "updatedNote": "Regulatory status updated 2026-11-13: compoundable under the HHS interim enforcement-discretion policy (topical/oral only, no injection).",
+    },
+    "semax": {
+        "tier": 2,
+        "compounding": (
+            "Covered by HHS's interim enforcement-discretion policy for compounded "
+            "peptides (filed Oct 28, 2026) — limited to NASAL use only. FDA will "
+            "exercise enforcement discretion for 503A compounding of Semax (free base) "
+            "that meets the policy's conditions: single ingredient only (no blends), a "
+            "503A pharmacy only (503B is excluded), and an FDA-registered source with a "
+            "certificate of analysis. This is enforcement discretion, NOT an FDA "
+            "approval or a 503A bulks-list listing, and holds only until FDA completes "
+            "bulks-list rulemaking. The policy does not establish that it is safe or "
+            "effective."
+        ),
+        "updatedNote": "Regulatory status updated 2026-11-13: compoundable under the HHS interim enforcement-discretion policy (nasal only).",
+    },
 }
 
 
