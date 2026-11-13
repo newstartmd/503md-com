@@ -7,3 +7,5 @@ next-env.d.ts.timestamp
 .env*.local
 .DS_Store
 /.vercel
+.vercel
+.env*

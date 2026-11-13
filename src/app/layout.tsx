@@ -1,23 +1,27 @@
 import type { Metadata } from "next";
-import { Space_Grotesk, IBM_Plex_Mono } from "next/font/google";
+import localFont from "next/font/local";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { JsonLd, organizationSchema, websiteSchema } from "@/lib/schema";
 import { SITE } from "@/lib/site";
 
-// Self-hosted at build time by next/font — no runtime requests to Google.
-const display = Space_Grotesk({
-  subsets: ["latin"],
+// Fonts are self-hosted in-repo (woff2) via next/font/local, so the build has
+// NO network dependency on Google Fonts — reliable on Vercel/CI and privacy-safe.
+const display = localFont({
+  src: "./fonts/SpaceGrotesk-var.woff2", // variable font, 300–700
   variable: "--font-disp",
   display: "swap",
-  weight: ["400", "500", "600", "700"],
+  weight: "300 700",
 });
-const mono = IBM_Plex_Mono({
-  subsets: ["latin"],
+const mono = localFont({
+  src: [
+    { path: "./fonts/IBMPlexMono-400.woff2", weight: "400", style: "normal" },
+    { path: "./fonts/IBMPlexMono-500.woff2", weight: "500", style: "normal" },
+    { path: "./fonts/IBMPlexMono-600.woff2", weight: "600", style: "normal" },
+  ],
   variable: "--font-mono",
   display: "swap",
-  weight: ["400", "500", "600"],
 });
 
 export const metadata: Metadata = {
