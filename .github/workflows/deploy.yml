@@ -1,0 +1,63 @@
+name: Deploy (production)
+
+# Builds and deploys to Vercel production on push to main.
+# Until the repo secret VERCEL_TOKEN is set (and the ORG/PROJECT IDs below are
+# filled from .vercel/project.json after the first `vercel link`), this job
+# SKIPS and stays green rather than failing every commit.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+concurrency:
+  group: production-deploy
+  cancel-in-progress: false
+
+env:
+  # TODO: replace with the 503MD Vercel team + project IDs once created.
+  VERCEL_ORG_ID: REPLACE_WITH_503MD_TEAM_ID
+  VERCEL_PROJECT_ID: REPLACE_WITH_503MD_PROJECT_ID
+
+jobs:
+  deploy:
+    name: Build & deploy to Vercel
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check for VERCEL_TOKEN
+        id: check
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: |
+          if [ -z "$VERCEL_TOKEN" ]; then
+            echo "has_token=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::VERCEL_TOKEN not set — skipping deploy."
+          else
+            echo "has_token=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Checkout
+        if: steps.check.outputs.has_token == 'true'
+        uses: actions/checkout@v4
+      - name: Set up Node
+        if: steps.check.outputs.has_token == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install Vercel CLI
+        if: steps.check.outputs.has_token == 'true'
+        run: npm install --global vercel@latest
+      - name: Pull Vercel environment (production)
+        if: steps.check.outputs.has_token == 'true'
+        run: vercel pull --yes --environment=production --token="$VERCEL_TOKEN"
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+      - name: Build
+        if: steps.check.outputs.has_token == 'true'
+        run: vercel build --prod --token="$VERCEL_TOKEN"
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+      - name: Deploy to production
+        if: steps.check.outputs.has_token == 'true'
+        run: vercel deploy --prebuilt --prod --token="$VERCEL_TOKEN"
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}

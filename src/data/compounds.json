@@ -1,0 +1,3095 @@
+{
+ "amycretin": {
+  "slug": "amycretin",
+  "name": "Amycretin",
+  "tier": 3,
+  "grade": "B",
+  "gradeLetter": "B",
+  "classKey": "glp1",
+  "classLabel": "GLP-1 / incretins & amylin",
+  "goals": [
+   "weight-loss"
+  ],
+  "goalLabels": [
+   "Weight loss"
+  ],
+  "summary": "Unimolecular GLP-1/amylin agonist. Research verification: Yes (TGA pending). 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Unimolecular GLP-1/amylin agonist.",
+  "oneLiner": "Unimolecular GLP-1/amylin agonist.",
+  "fda": "Phase 3 (Novo Nordisk); investigational.",
+  "compounding": "Not compoundable.",
+  "dea": "Not controlled.",
+  "wada": "S0 Non-approved substances",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Amycretin, a novel, unimolecular GLP-1 and amylin receptor agonist administered subcutaneously: results from a phase 1b/2a randomised controlled study.",
+    "label": "Peer-reviewed trial.",
+    "pmid": "40550231",
+    "doi": "10.1016/S0140-6736(25)01185-7",
+    "year": "2025",
+    "design": "RCT",
+    "n": 125
+   }
+  ]
+ },
+ "aod-9604": {
+  "slug": "aod-9604",
+  "name": "AOD-9604",
+  "tier": 3,
+  "grade": "B",
+  "gradeLetter": "B",
+  "classKey": "metabolic",
+  "classLabel": "Metabolic (other)",
+  "goals": [
+   "weight-loss"
+  ],
+  "goalLabels": [
+   "Weight loss"
+  ],
+  "summary": "hGH 177-191 analog. Research verification: Yes (TGA pending). 0 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Claimed lipolytic fragment.",
+  "oneLiner": "Claimed lipolytic fragment.",
+  "fda": "Not approved.",
+  "compounding": "Listed by FDA under 'nominated but withdrawn' from Category 2 (i.e., no longer in Category 2, but NOT on the 503A bulks list or Category 1)",
+  "dea": "Not controlled.",
+  "wada": "S2.2.3 Growth hormone, analogues and fragments (incl. AOD-9604, hGH 176-191)",
+  "studyCount": 0,
+  "studies": []
+ },
+ "aromatase-inhibitors": {
+  "slug": "aromatase-inhibitors",
+  "name": "Anastrozole & other AIs",
+  "tier": 2,
+  "grade": "B (men)",
+  "gradeLetter": "B",
+  "classKey": "repro",
+  "classLabel": "Reproductive hormones",
+  "goals": [
+   "hormone"
+  ],
+  "goalLabels": [
+   "Hormone optimization / menopause / low T"
+  ],
+  "summary": "Aromatase inhibitors. Research verification: Yes (TGA pending). 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Block aromatase.",
+  "oneLiner": "Block aromatase.",
+  "fda": "Approved for breast cancer (anastrozole, letrozole, exemestane); off-label in men.",
+  "compounding": "Approved generics.",
+  "dea": "Not controlled.",
+  "wada": "S4.1 Aromatase inhibitors",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Effects of aromatase inhibition on bone mineral density and bone turnover in older men with low testosterone levels.",
+    "label": "Older men low T, n=69: anastrozole decreased spine BMD vs placebo.",
+    "pmid": "19820017",
+    "doi": "10.1210/jc.2009-0739",
+    "year": "2009",
+    "design": "RCT",
+    "n": 69
+   }
+  ]
+ },
+ "bpc-157": {
+  "slug": "bpc-157",
+  "name": "BPC-157",
+  "tier": 3,
+  "grade": "C",
+  "gradeLetter": "C",
+  "classKey": "healing",
+  "classLabel": "Healing / repair",
+  "goals": [
+   "recovery"
+  ],
+  "goalLabels": [
+   "Recovery / injury"
+  ],
+  "summary": "Synthetic gastric pentadecapeptide. Research verification: Yes (TGA pending). 2 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Proposed NO/VEGF/growth-factor effects; rodent data.",
+  "oneLiner": "Proposed NO/VEGF/growth-factor effects; rodent data.",
+  "fda": "Not approved.",
+  "compounding": "Removed from 503A Category 2 on ~Apr 22 2026 after nominations were withdrawn; PCAC voted Jul 23-24 2026 to recommend 503A bulks-list inclusion, but no rulemaking yet, so not lawfully compoundable and not in Category 1. FDA list:",
+  "dea": "Not controlled.",
+  "wada": "S0 Non-approved substances",
+  "studyCount": 2,
+  "studies": [
+   {
+    "name": "Emerging Use of BPC-157 in Orthopaedic Sports Medicine: A Systematic Review.",
+    "label": "Systematic review (HSS J 2025): human evidence limited to small, low-quality reports; preclinical dominance.",
+    "pmid": "40756949",
+    "doi": "10.1177/15563316251355551",
+    "year": "2025",
+    "design": "systematic review",
+    "n": ""
+   },
+   {
+    "name": "Regeneration or Risk? A Narrative Review of BPC-157 for Musculoskeletal Healing.",
+    "label": "Narrative review 2025 on musculoskeletal healing and risks.",
+    "pmid": "40789979",
+    "doi": "10.1007/s12178-025-09990-7",
+    "year": "2025",
+    "design": "review (narrative)",
+    "n": ""
+   }
+  ]
+ },
+ "bremelanotide-pt-141": {
+  "slug": "bremelanotide-pt-141",
+  "name": "Bremelanotide (PT-141)",
+  "tier": 1,
+  "grade": "A",
+  "gradeLetter": "A",
+  "classKey": "sexual",
+  "classLabel": "Sexual health",
+  "goals": [
+   "sexual-function"
+  ],
+  "goalLabels": [
+   "Sexual function"
+  ],
+  "summary": "MC4R agonist. Research verification: Yes (TGA pending). 2 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "MC4R agonist.",
+  "oneLiner": "MC4R agonist.",
+  "fda": "Approved: Vyleesi (acquired HSDD, premenopausal women).",
+  "compounding": "Approved product.",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 2,
+  "studies": [
+   {
+    "name": "Bremelanotide for the Treatment of Hypoactive Sexual Desire Disorder: Two Randomized Phase 3 Trials.",
+    "label": "RECONNECT: two phase 3 RCTs, n≈1,267 women.",
+    "pmid": "31599840",
+    "doi": "10.1097/AOG.0000000000003500",
+    "year": "2019",
+    "design": "RCT",
+    "n": 1267
+   },
+   {
+    "name": "Salvage of sildenafil failures with bremelanotide: a randomized, double-blind, placebo controlled study.",
+    "label": "Men with ED, sildenafil failures: phase 2.",
+    "pmid": "18206919",
+    "doi": "10.1016/j.juro.2007.10.063",
+    "year": "2008",
+    "design": "RCT",
+    "n": ""
+   }
+  ]
+ },
+ "cagrilintide": {
+  "slug": "cagrilintide",
+  "name": "Cagrilintide / CagriSema",
+  "tier": 3,
+  "grade": "A (combo) — unapproved",
+  "gradeLetter": "A",
+  "classKey": "glp1",
+  "classLabel": "GLP-1 / incretins & amylin",
+  "goals": [
+   "weight-loss"
+  ],
+  "goalLabels": [
+   "Weight loss"
+  ],
+  "summary": "Long-acting amylin analog. Research verification: Yes (TGA pending). 3 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Amylin/calcitonin receptor agonist, weekly.",
+  "oneLiner": "Amylin/calcitonin receptor agonist, weekly.",
+  "fda": "CagriSema filed with FDA Dec 2025; not approved as of Oct 2026 (secondary sources; confirm on Drugs@FDA).",
+  "compounding": "Not compoundable.",
+  "dea": "Not controlled.",
+  "wada": "S0 Non-approved substances",
+  "studyCount": 3,
+  "studies": [
+   {
+    "name": "Coadministered Cagrilintide and Semaglutide in Adults with Overweight or Obesity.",
+    "label": "REDEFINE 1 (NEJM 2025): CagriSema vs components in obesity.",
+    "pmid": "40544433",
+    "doi": "10.1056/NEJMoa2502081",
+    "year": "2025",
+    "design": "RCT",
+    "n": 3417
+   },
+   {
+    "name": "Efficacy and safety of co-administered once-weekly cagrilintide 2·4 mg with once-weekly semaglutide 2·4 mg in type 2 diabetes: a multicentre, randomised, double-blind, active-controlled, phase 2 trial.",
+    "label": "Phase 2 with semaglutide in T2D.",
+    "pmid": "37364590",
+    "doi": "10.1016/S0140-6736(23)01163-7",
+    "year": "2023",
+    "design": "RCT",
+    "n": 92
+   },
+   {
+    "name": "Once-weekly cagrilintide for weight management in people with overweight and obesity: a multicentre, randomised, double-blind, placebo-controlled and active-controlled, dose-finding phase 2 trial.",
+    "label": "Phase 2 monotherapy dose-finding, n=706.",
+    "pmid": "34798060",
+    "doi": "10.1016/S0140-6736(21)01751-7",
+    "year": "2021",
+    "design": "RCT",
+    "n": 706
+   }
+  ]
+ },
+ "cjc-1295": {
+  "slug": "cjc-1295",
+  "name": "CJC-1295",
+  "tier": 3,
+  "grade": "B",
+  "gradeLetter": "B",
+  "classKey": "gh",
+  "classLabel": "GH secretagogues & GH axis",
+  "goals": [
+   "muscle"
+  ],
+  "goalLabels": [
+   "Muscle / body composition"
+  ],
+  "summary": "GHRH analog (DAC). Research verification: Yes (TGA pending). 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Albumin-binding GHRH; t½ ~6-8 d.",
+  "oneLiner": "Albumin-binding GHRH; t½ ~6-8 d.",
+  "fda": "Not approved.",
+  "compounding": "Listed by FDA under 'nominated but withdrawn' from Category 2 (i.e., no longer in Category 2, but NOT on the 503A bulks list or Category 1) — (FDA cited increased heart rate, vasodilatory reactions).",
+  "dea": "Not controlled.",
+  "wada": "S2.2.4 GH-releasing factors: GHRH & analogues (CJC-1295, sermorelin, tesamorelin), GHS (ibutamoren, ipamorelin), GHRPs (GHRP-2/6, hexarelin)",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults.",
+    "label": "Phase 1 healthy adults: sustained GH/IGF-1 elevation.",
+    "pmid": "16352683",
+    "doi": "10.1210/jc.2005-1536",
+    "year": "2006",
+    "design": "RCT",
+    "n": ""
+   }
+  ]
+ },
+ "clomiphene-enclomiphene": {
+  "slug": "clomiphene-enclomiphene",
+  "name": "Clomiphene / Enclomiphene",
+  "tier": 2,
+  "grade": "B",
+  "gradeLetter": "B",
+  "classKey": "repro",
+  "classLabel": "Reproductive hormones",
+  "goals": [
+   "hormone",
+   "sexual-function"
+  ],
+  "goalLabels": [
+   "Hormone optimization / menopause / low T",
+   "Sexual function"
+  ],
+  "summary": "SERMs. Research verification: Yes (TGA pending). 2 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Hypothalamic ER antagonism ↑LH/FSH.",
+  "oneLiner": "Hypothalamic ER antagonism ↑LH/FSH.",
+  "fda": "Clomiphene approved for female ovulation induction (off-label in men). Enclomiphene not approved (NDA not approved).",
+  "compounding": "Clomiphene citrate: approved generics (USP monograph). Enclomiphene citrate: 503A Category 1 (under evaluation) — compounding permitted under FDA interim policy while evaluated; discussed at PCAC Jun 8 2022",
+  "dea": "Not controlled.",
+  "wada": "S4.2 Anti-estrogenic substances (incl. clomifene)",
+  "studyCount": 2,
+  "studies": [
+   {
+    "name": "Clomiphene citrate for men with hypogonadism: a systematic review and meta-analysis.",
+    "label": "Meta-analysis in hypogonadal men.",
+    "pmid": "34933414",
+    "doi": "10.1111/andr.13146",
+    "year": "2022",
+    "design": "meta-analysis",
+    "n": 1642
+   },
+   {
+    "name": "Oral enclomiphene citrate stimulates the endogenous production of testosterone and sperm counts in men with low testosterone: comparison with testosterone gel.",
+    "label": "Enclomiphene phase 2 secondary hypogonadism.",
+    "pmid": "23530575",
+    "doi": "10.1111/jsm.12116",
+    "year": "2013",
+    "design": "RCT",
+    "n": ""
+   }
+  ]
+ },
+ "dhea-pregnenolone": {
+  "slug": "dhea-pregnenolone",
+  "name": "DHEA / Pregnenolone",
+  "tier": 2,
+  "grade": "B (DHEA) / C (pregnenolone)",
+  "gradeLetter": "B",
+  "classKey": "adrenal",
+  "classLabel": "Adrenal / neurosteroids",
+  "goals": [
+   "hormone",
+   "longevity"
+  ],
+  "goalLabels": [
+   "Hormone optimization / menopause / low T",
+   "Longevity"
+  ],
+  "summary": "Adrenal steroid precursors. Research verification: Yes (TGA pending). 3 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Precursors to androgens/estrogens/neurosteroids.",
+  "oneLiner": "Precursors to androgens/estrogens/neurosteroids.",
+  "fda": "Dietary supplements in US (not drugs); prasterone vaginal insert (Intrarosa) approved.",
+  "compounding": "DHEA: dietary supplement; 7-keto-DHEA and pregnenolone are 503A Category 1",
+  "dea": "DHEA expressly excluded from 'anabolic steroid' definition by Anabolic Steroid Control Act of 2004 (21 USC 802(41)(A)) — not scheduled",
+  "wada": "S1 Anabolic agents",
+  "studyCount": 3,
+  "studies": [
+   {
+    "name": "Pregnenolone Reduces Stress-Induced Craving, Anxiety, and Autonomic Arousal in Individuals with Cocaine Use Disorder.",
+    "label": "Pregnenolone small RCT (craving/anxiety).",
+    "pmid": "36358943",
+    "doi": "10.3390/biom12111593",
+    "year": "2022",
+    "design": "RCT",
+    "n": ""
+   },
+   {
+    "name": "A systematic review and meta-analysis of randomized placebo-controlled trials of DHEA supplementation of bone mineral density in healthy adults.",
+    "label": "Meta-analysis of DHEA RCTs.",
+    "pmid": "31237150",
+    "doi": "10.1080/09513590.2019.1616175",
+    "year": "2019",
+    "design": "meta-analysis",
+    "n": ""
+   },
+   {
+    "name": "DHEA in elderly women and DHEA or testosterone in elderly men.",
+    "label": "Nair NEJM 2006, n=87 men, 57 women, 2 y: no meaningful benefit.",
+    "pmid": "17050889",
+    "doi": "10.1056/NEJMoa054629",
+    "year": "2006",
+    "design": "RCT",
+    "n": 144
+   }
+  ]
+ },
+ "dihexa": {
+  "slug": "dihexa",
+  "name": "Dihexa",
+  "tier": 3,
+  "grade": "C",
+  "gradeLetter": "C",
+  "classKey": "nootropic",
+  "classLabel": "Nootropic / neuro peptides",
+  "goals": [
+   "cognition"
+  ],
+  "goalLabels": [
+   "Cognition"
+  ],
+  "summary": "Angiotensin IV analog. Research verification: Yes (TGA pending). 0 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "HGF/c-Met potentiator.",
+  "oneLiner": "HGF/c-Met potentiator.",
+  "fda": "Not approved.",
+  "compounding": "Listed by FDA under 'nominated but withdrawn' from Category 2 (i.e., no longer in Category 2, but NOT on the 503A bulks list or Category 1) — (no human exposure data).",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 0,
+  "studies": []
+ },
+ "elamipretide-ss-31": {
+  "slug": "elamipretide-ss-31",
+  "name": "Elamipretide (SS-31)",
+  "tier": 1,
+  "grade": "B",
+  "gradeLetter": "B",
+  "classKey": "longevity",
+  "classLabel": "Longevity / mitochondrial",
+  "goals": [
+   "longevity"
+  ],
+  "goalLabels": [
+   "Longevity"
+  ],
+  "summary": "Cardiolipin-binding tetrapeptide. Research verification: Yes (TGA pending). 2 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Binds inner mitochondrial membrane cardiolipin.",
+  "oneLiner": "Binds inner mitochondrial membrane cardiolipin.",
+  "fda": "Accelerated approval Sep 19 2025: Forzinity (Barth syndrome, ≥30 kg) — confirmatory trial NCT07531251.",
+  "compounding": "Approved product.",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 2,
+  "studies": [
+   {
+    "name": "Long-term efficacy and safety of elamipretide in patients with Barth syndrome: 168-week open-label extension results of TAZPOWER.",
+    "label": "Barth syndrome long-term 168-wk follow-up.",
+    "pmid": "38602181",
+    "doi": "10.1016/j.gim.2024.101138",
+    "year": "2024",
+    "design": "clinical trial (non-randomized/unspecified)",
+    "n": 10
+   },
+   {
+    "name": "Efficacy and Safety of Elamipretide in Individuals With Primary Mitochondrial Myopathy: The MMPOWER-3 Randomized Clinical Trial.",
+    "label": "MMPOWER-3, primary mitochondrial myopathy, n=218: missed primary endpoint.",
+    "pmid": "37268435",
+    "doi": "10.1212/WNL.0000000000207402",
+    "year": "2023",
+    "design": "RCT",
+    "n": 218
+   }
+  ]
+ },
+ "estradiol-progesterone": {
+  "slug": "estradiol-progesterone",
+  "name": "Estradiol / Progesterone (menopause HRT)",
+  "tier": 1,
+  "grade": "A",
+  "gradeLetter": "A",
+  "classKey": "estrogen",
+  "classLabel": "Estrogen / progesterone",
+  "goals": [
+   "hormone"
+  ],
+  "goalLabels": [
+   "Hormone optimization / menopause / low T"
+  ],
+  "summary": "Sex steroids. Research verification: Yes (TGA pending). 4 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "ER/PR agonists.",
+  "oneLiner": "ER/PR agonists.",
+  "fda": "Approved (many).",
+  "compounding": "Approved; compounded bioidentical common (not FDA-approved).",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 4,
+  "studies": [
+   {
+    "name": "The 2022 hormone therapy position statement of The North American Menopause Society.",
+    "label": "NAMS 2022 position statement.",
+    "pmid": "35797481",
+    "doi": "10.1097/GME.0000000000002028",
+    "year": "2022",
+    "design": "other/unspecified",
+    "n": ""
+   },
+   {
+    "name": "The Kronos Early Estrogen Prevention Study (KEEPS): what have we learned?",
+    "label": "KEEPS summary.",
+    "pmid": "31453973",
+    "doi": "10.1097/GME.0000000000001326",
+    "year": "2019",
+    "design": "review (narrative)",
+    "n": ""
+   },
+   {
+    "name": "Vascular Effects of Early versus Late Postmenopausal Treatment with Estradiol.",
+    "label": "ELITE n=643: early estradiol slowed CIMT progression.",
+    "pmid": "27028912",
+    "doi": "10.1056/NEJMoa1505241",
+    "year": "2016",
+    "design": "RCT",
+    "n": 643
+   },
+   {
+    "name": "Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results From the Women's Health Initiative randomized controlled trial.",
+    "label": "WHI E+P, n=16,608: increased CHD, stroke, breast cancer; fewer fractures.",
+    "pmid": "12117397",
+    "doi": "10.1001/jama.288.3.321",
+    "year": "2002",
+    "design": "RCT",
+    "n": 16608
+   }
+  ]
+ },
+ "ghk-cu": {
+  "slug": "ghk-cu",
+  "name": "GHK-Cu",
+  "tier": 3,
+  "grade": "B (topical)",
+  "gradeLetter": "B",
+  "classKey": "skin",
+  "classLabel": "Skin / collagen",
+  "goals": [
+   "skin",
+   "recovery"
+  ],
+  "goalLabels": [
+   "Skin",
+   "Recovery / injury"
+  ],
+  "summary": "Copper tripeptide. Research verification: Yes (TGA pending). 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Copper-binding tripeptide; collagen synthesis in vitro.",
+  "oneLiner": "Copper-binding tripeptide; collagen synthesis in vitro.",
+  "fda": "Not approved as drug; topical cosmetic use legal.",
+  "compounding": "Non-injectable GHK-Cu: 503A Category 1 (re-added after May 5 2026 clarification); injectable: nominated-but-withdrawn; PCAC review planned before end Feb 2027",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "The potential of GHK as an anti-aging peptide.",
+    "label": "Review of GHK anti-aging data (2020).",
+    "pmid": "35083444",
+    "doi": "10.31491/apt.2020.03.014",
+    "year": "2020",
+    "design": "review (narrative)",
+    "n": ""
+   }
+  ]
+ },
+ "ghrp-2-ghrp-6-hexarelin": {
+  "slug": "ghrp-2-ghrp-6-hexarelin",
+  "name": "GHRP-2 / GHRP-6 / Hexarelin",
+  "tier": 3,
+  "grade": "B",
+  "gradeLetter": "B",
+  "classKey": "gh",
+  "classLabel": "GH secretagogues & GH axis",
+  "goals": [
+   "muscle"
+  ],
+  "goalLabels": [
+   "Muscle / body composition"
+  ],
+  "summary": "GH-releasing peptides. Research verification: Yes (TGA pending). 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "GHS-R1a agonists.",
+  "oneLiner": "GHS-R1a agonists.",
+  "fda": "Not approved in US.",
+  "compounding": "GHRP-2 (inj/nasal) and GHRP-6: 503B Category 2 (Sep 29 2023)",
+  "dea": "Not controlled.",
+  "wada": "S2.2.4 GH-releasing factors: GHRH & analogues (CJC-1295, sermorelin, tesamorelin), GHS (ibutamoren, ipamorelin), GHRPs (GHRP-2/6, hexarelin)",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Implications of ghrelin and hexarelin in diabetes and diabetes-associated heart diseases.",
+    "label": "Review of hexarelin cardiac/metabolic data.",
+    "pmid": "25645463",
+    "doi": "10.1007/s12020-015-0531-z",
+    "year": "2015",
+    "design": "review (narrative)",
+    "n": ""
+   }
+  ]
+ },
+ "gonadorelin-gnrh-analogs": {
+  "slug": "gonadorelin-gnrh-analogs",
+  "name": "Gonadorelin & GnRH analogs",
+  "tier": 1,
+  "grade": "A",
+  "gradeLetter": "A",
+  "classKey": "repro",
+  "classLabel": "Reproductive hormones",
+  "goals": [
+   "hormone"
+  ],
+  "goalLabels": [
+   "Hormone optimization / menopause / low T"
+  ],
+  "summary": "GnRH agonists/antagonists. Research verification: Yes (TGA pending). 5 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "GnRH agonists (leuprolide, triptorelin, goserelin) cause downregulation; antagonists (degarelix, relugolix, elagolix) block directly.",
+  "oneLiner": "GnRH agonists (leuprolide, triptorelin, goserelin) cause downregulation; antagonists (degarelix, relugolix, elagolix) block directly.",
+  "fda": "Approved: Lupron/Eligard/Fensolvi (leuprolide), degarelix (Firmagon), relugolix (Orgovyx), elagolix (Orilissa). Gonadorelin (Factrel) discontinued in US.",
+  "compounding": "Gonadorelin acetate has a USP monograph → eligible 503A bulk substance (subject to COA/registered source) —;",
+  "dea": "Not controlled.",
+  "wada": "S2.2.1 Testosterone-stimulating peptides in males (CG, LH, GnRH/gonadorelin & agonist analogues, kisspeptin & agonist analogues)",
+  "studyCount": 5,
+  "studies": [
+   {
+    "name": "Leuprolide acetate (Fensolvi) for central precocious puberty.",
+    "label": "Fensolvi for central precocious puberty.",
+    "pmid": "34606489",
+    "doi": "",
+    "year": "2021",
+    "design": "other/unspecified",
+    "n": ""
+   },
+   {
+    "name": "Oral Relugolix for Androgen-Deprivation Therapy in Advanced Prostate Cancer.",
+    "label": "oral relugolix vs leuprolide.",
+    "pmid": "32469183",
+    "doi": "10.1056/NEJMoa2004325",
+    "year": "2020",
+    "design": "RCT",
+    "n": 622
+   },
+   {
+    "name": "Ovulation induction with pulsatile gonadotropin releasing hormone: missing in action.",
+    "label": "Pulsatile GnRH ovulation induction review.",
+    "pmid": "29653714",
+    "doi": "10.1016/j.fertnstert.2018.01.023",
+    "year": "2018",
+    "design": "review (narrative)",
+    "n": ""
+   },
+   {
+    "name": "Treatment of Endometriosis-Associated Pain with Elagolix, an Oral GnRH Antagonist.",
+    "label": "Elagolix endometriosis pain, two phase 3 RCTs.",
+    "pmid": "28525302",
+    "doi": "10.1056/NEJMoa1700089",
+    "year": "2017",
+    "design": "RCT",
+    "n": 872
+   },
+   {
+    "name": "The efficacy and safety of degarelix: a 12-month, comparative, randomized, open-label, parallel-group phase III study in patients with prostate cancer.",
+    "label": "Degarelix phase 3, n=610.",
+    "pmid": "19035858",
+    "doi": "10.1111/j.1464-410X.2008.08183.x",
+    "year": "2008",
+    "design": "RCT",
+    "n": 610
+   }
+  ]
+ },
+ "hcg": {
+  "slug": "hcg",
+  "name": "hCG",
+  "tier": 1,
+  "grade": "A",
+  "gradeLetter": "A",
+  "classKey": "repro",
+  "classLabel": "Reproductive hormones",
+  "goals": [
+   "hormone",
+   "sexual-function"
+  ],
+  "goalLabels": [
+   "Hormone optimization / menopause / low T",
+   "Sexual function"
+  ],
+  "summary": "Gonadotropin. Research verification: Yes (TGA pending). 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "LH-receptor agonist.",
+  "oneLiner": "LH-receptor agonist.",
+  "fda": "Approved (Novarel, Pregnyl) for hypogonadotropic hypogonadism, ovulation induction; not for weight loss (label disclaimer).",
+  "compounding": "Biologic since Mar 23 2020 BPCI Act transition — NOT eligible for 503A/503B compounding (only mixing/diluting/repackaging of approved product per 2018 guidance)",
+  "dea": "Not controlled federally.",
+  "wada": "S2.2.1 Testosterone-stimulating peptides in males (CG, LH, GnRH/gonadorelin & agonist analogues, kisspeptin & agonist analogues)",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Testosterone replacement therapy and spermatogenesis in reproductive age men.",
+    "label": "Review: TRT and spermatogenesis (hCG for preservation).",
+    "pmid": "40346275",
+    "doi": "10.1038/s41585-025-01032-8",
+    "year": "2025",
+    "design": "review (narrative)",
+    "n": ""
+   }
+  ]
+ },
+ "humanin": {
+  "slug": "humanin",
+  "name": "Humanin",
+  "tier": 3,
+  "grade": "C",
+  "gradeLetter": "C",
+  "classKey": "longevity",
+  "classLabel": "Longevity / mitochondrial",
+  "goals": [
+   "longevity"
+  ],
+  "goalLabels": [
+   "Longevity"
+  ],
+  "summary": "Mitochondrial-derived peptide. Research verification: Yes (TGA pending). 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Cytoprotective mitokine.",
+  "oneLiner": "Cytoprotective mitokine.",
+  "fda": "Not approved.",
+  "compounding": "Not nominated.",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Mitochondrial stress and mitokines in aging.",
+    "label": "Review of mitokines in aging.",
+    "pmid": "36642986",
+    "doi": "10.1111/acel.13770",
+    "year": "2023",
+    "design": "review (narrative)",
+    "n": ""
+   }
+  ]
+ },
+ "igf-1-lr3-mecasermin": {
+  "slug": "igf-1-lr3-mecasermin",
+  "name": "IGF-1 LR3 / Mecasermin",
+  "tier": 3,
+  "grade": "C (LR3) / A (mecasermin)",
+  "gradeLetter": "C",
+  "classKey": "gh",
+  "classLabel": "GH secretagogues & GH axis",
+  "goals": [
+   "muscle"
+  ],
+  "goalLabels": [
+   "Muscle / body composition"
+  ],
+  "summary": "IGF-1 analogs. Research verification: Yes (TGA pending). 1 human study record(s) in the FitClinicMD studies database. Approval note: mecasermin (Increlex) is FDA-approved for severe primary IGF-1 deficiency in children (approved 2005). The page-level Tier 3 rating applies to IGF-1 LR3, which is unapproved and not compoundable, and to any non-approved use of mecasermin.",
+  "mechanism": "IGF-1R agonist.",
+  "oneLiner": "IGF-1R agonist.",
+  "fda": "Mecasermin (Increlex) approved for severe primary IGFD in children; LR3 unapproved.",
+  "compounding": "LR3 not compoundable.",
+  "dea": "Not controlled.",
+  "wada": "S2.3 Growth factors & modulators (IGF-1/mecasermin & analogues, MGFs, thymosin-β4 & derivatives e.g. TB-500, HGF)",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Profile of mecasermin for the long-term treatment of growth failure in children and adolescents with severe primary IGF-1 deficiency.",
+    "label": "Mecasermin long-term pediatric review.",
+    "pmid": "19707272",
+    "doi": "10.2147/tcrm.s6178",
+    "year": "2009",
+    "design": "review (narrative)",
+    "n": ""
+   }
+  ]
+ },
+ "ipamorelin": {
+  "slug": "ipamorelin",
+  "name": "Ipamorelin",
+  "tier": 3,
+  "grade": "B",
+  "gradeLetter": "B",
+  "classKey": "gh",
+  "classLabel": "GH secretagogues & GH axis",
+  "goals": [
+   "muscle",
+   "recovery"
+  ],
+  "goalLabels": [
+   "Muscle / body composition",
+   "Recovery / injury"
+  ],
+  "summary": "Ghrelin-receptor agonist. Research verification: Yes (TGA pending). 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Selective GHS-R1a agonist.",
+  "oneLiner": "Selective GHS-R1a agonist.",
+  "fda": "Not approved.",
+  "compounding": "503B Category 2 (Sep 29 2023); 503A: nominated-but-withdrawn",
+  "dea": "Not controlled.",
+  "wada": "S2.2.4 GH-releasing factors: GHRH & analogues (CJC-1295, sermorelin, tesamorelin), GHS (ibutamoren, ipamorelin), GHRPs (GHRP-2/6, hexarelin)",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Prospective, randomized, controlled, proof-of-concept study of the Ghrelin mimetic ipamorelin for the management of postoperative ileus in bowel resection patients.",
+    "label": "no benefit over placebo.",
+    "pmid": "25331030",
+    "doi": "10.1007/s00384-014-2030-8",
+    "year": "2014",
+    "design": "RCT",
+    "n": 114
+   }
+  ]
+ },
+ "kisspeptin": {
+  "slug": "kisspeptin",
+  "name": "Kisspeptin",
+  "tier": 3,
+  "grade": "B",
+  "gradeLetter": "B",
+  "classKey": "repro",
+  "classLabel": "Reproductive hormones",
+  "goals": [
+   "hormone",
+   "sexual-function"
+  ],
+  "goalLabels": [
+   "Hormone optimization / menopause / low T",
+   "Sexual function"
+  ],
+  "summary": "Neuropeptide. Research verification: Yes (TGA pending). 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "KISS1R → GnRH.",
+  "oneLiner": "KISS1R → GnRH.",
+  "fda": "Not approved.",
+  "compounding": "Kisspeptin-10: 503A Category 2 (Sep 29 2023)",
+  "dea": "Not controlled.",
+  "wada": "S2.2.1 Testosterone-stimulating peptides in males (CG, LH, GnRH/gonadorelin & agonist analogues, kisspeptin & agonist analogues)",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Efficacy of Kisspeptin-54 to Trigger Oocyte Maturation in Women at High Risk of Ovarian Hyperstimulation Syndrome (OHSS) During In Vitro Fertilization (IVF) Therapy.",
+    "label": "Kisspeptin-54 IVF trigger in high OHSS risk women, n=60.",
+    "pmid": "26192876",
+    "doi": "10.1210/jc.2015-2332",
+    "year": "2015",
+    "design": "RCT",
+    "n": 60
+   }
+  ]
+ },
+ "kpv": {
+  "slug": "kpv",
+  "name": "KPV",
+  "tier": 3,
+  "grade": "C",
+  "gradeLetter": "C",
+  "classKey": "immune",
+  "classLabel": "Immune / thymic",
+  "goals": [
+   "recovery"
+  ],
+  "goalLabels": [
+   "Recovery / injury"
+  ],
+  "summary": "α-MSH tripeptide. Research verification: Yes (TGA pending). 0 human study record(s) in the FitClinicMD studies database (plus 1 preclinical animal/lab record(s), shown for context only).",
+  "mechanism": "NF-κB anti-inflammatory.",
+  "oneLiner": "NF-κB anti-inflammatory.",
+  "fda": "Not approved.",
+  "compounding": "Removed from 503A Category 2 on ~Apr 22 2026 after nominations were withdrawn; PCAC voted Jul 23-24 2026 to recommend 503A bulks-list inclusion, but no rulemaking yet, so not lawfully compoundable and not in Category 1. FDA list:",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Self-Cross-Linked Hydrogel of Cysteamine-Grafted γ-Polyglutamic Acid Stabilized Tripeptide KPV for Alleviating TNBS-Induced Ulcerative Colitis in Rats.",
+    "label": "Hydrogel delivery study (preclinical).",
+    "pmid": "34547895",
+    "doi": "10.1021/acsbiomaterials.1c00792",
+    "year": "2021",
+    "design": "preclinical (animal/lab — not a human study)",
+    "n": ""
+   }
+  ]
+ },
+ "liraglutide": {
+  "slug": "liraglutide",
+  "name": "Liraglutide",
+  "tier": 1,
+  "grade": "A",
+  "gradeLetter": "A",
+  "classKey": "glp1",
+  "classLabel": "GLP-1 / incretins & amylin",
+  "goals": [
+   "weight-loss"
+  ],
+  "goalLabels": [
+   "Weight loss"
+  ],
+  "summary": "GLP-1 RA. Research verification: Yes (TGA pending). 4 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Daily GLP-1RA; t½ ~13 h.",
+  "oneLiner": "Daily GLP-1RA; t½ ~13 h.",
+  "fda": "Approved: Victoza (T2D ≥10 y), Saxenda (obesity ≥12 y); generics available.",
+  "compounding": "Approved generics available; compounding of copies restricted.",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 4,
+  "studies": [
+   {
+    "name": "A Randomized, Controlled Trial of Liraglutide for Adolescents with Obesity.",
+    "label": "Trial",
+    "pmid": "32233338",
+    "doi": "10.1056/NEJMoa1916038",
+    "year": "2020",
+    "design": "RCT",
+    "n": 251
+   },
+   {
+    "name": "Liraglutide in Children and Adolescents with Type 2 Diabetes.",
+    "label": "Children/adolescents T2D n=134.",
+    "pmid": "31034184",
+    "doi": "10.1056/NEJMoa1903822",
+    "year": "2019",
+    "design": "RCT",
+    "n": 134
+   },
+   {
+    "name": "Liraglutide and Cardiovascular Outcomes in Type 2 Diabetes.",
+    "label": "T2D CV outcomes n=9,340: MACE HR 0.87.",
+    "pmid": "27295427",
+    "doi": "10.1056/NEJMoa1603827",
+    "year": "2016",
+    "design": "RCT",
+    "n": 9340
+   },
+   {
+    "name": "A Randomized, Controlled Trial of 3.0 mg of Liraglutide in Weight Management.",
+    "label": "Trial",
+    "pmid": "26132939",
+    "doi": "10.1056/NEJMoa1411892",
+    "year": "2015",
+    "design": "RCT",
+    "n": ""
+   }
+  ]
+ },
+ "ll-37": {
+  "slug": "ll-37",
+  "name": "LL-37",
+  "tier": 3,
+  "grade": "B",
+  "gradeLetter": "B",
+  "classKey": "immune",
+  "classLabel": "Immune / thymic",
+  "goals": [
+   "recovery"
+  ],
+  "goalLabels": [
+   "Recovery / injury"
+  ],
+  "summary": "Cathelicidin. Research verification: Yes (TGA pending). 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Antimicrobial/immunomodulatory.",
+  "oneLiner": "Antimicrobial/immunomodulatory.",
+  "fda": "Not approved.",
+  "compounding": "Listed by FDA under 'nominated but withdrawn' from Category 2 (i.e., no longer in Category 2, but NOT on the 503A bulks list or Category 1) — (nonclinical male-reproduction and protumorigenic signals).",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Treatment with LL-37 is safe and effective in enhancing healing of hard-to-heal venous leg ulcers: a randomized, placebo-controlled clinical trial.",
+    "label": "Phase 1/2 topical venous leg ulcers, n=34.",
+    "pmid": "25041740",
+    "doi": "10.1111/wrr.12211",
+    "year": "2014",
+    "design": "RCT",
+    "n": 34
+   }
+  ]
+ },
+ "mazdutide": {
+  "slug": "mazdutide",
+  "name": "Mazdutide",
+  "tier": 3,
+  "grade": "B",
+  "gradeLetter": "B",
+  "classKey": "glp1",
+  "classLabel": "GLP-1 / incretins & amylin",
+  "goals": [
+   "weight-loss"
+  ],
+  "goalLabels": [
+   "Weight loss"
+  ],
+  "summary": "Glucagon/GLP-1 dual agonist. Research verification: Yes (TGA pending). 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Glucagon/GLP-1 dual agonist.",
+  "oneLiner": "Glucagon/GLP-1 dual agonist.",
+  "fda": "Approved in China (Innovent); not FDA/EMA-approved.",
+  "compounding": "Not compoundable.",
+  "dea": "Not controlled.",
+  "wada": "S0 Non-approved substances",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Once-Weekly Mazdutide in Chinese Adults with Obesity or Overweight.",
+    "label": "Peer-reviewed trial.",
+    "pmid": "40421736",
+    "doi": "10.1056/NEJMoa2411528",
+    "year": "2025",
+    "design": "RCT",
+    "n": 610
+   }
+  ]
+ },
+ "melanocortins-mt1-mt2": {
+  "slug": "melanocortins-mt1-mt2",
+  "name": "Afamelanotide (MT-I) / Melanotan II",
+  "tier": 1,
+  "grade": "A (afamelanotide) / D (MT-II)",
+  "gradeLetter": "A",
+  "classKey": "melanocortin",
+  "classLabel": "Melanocortins",
+  "goals": [
+   "skin",
+   "sexual-function"
+  ],
+  "goalLabels": [
+   "Skin",
+   "Sexual function"
+  ],
+  "summary": "Melanocortin agonists. Research verification: Yes (TGA pending). 2 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "MC1R (pigment), MC3/4R.",
+  "oneLiner": "MC1R (pigment), MC3/4R.",
+  "fda": "Afamelanotide: Scenesse implant approved (EPP). MT-II: unapproved.",
+  "compounding": "MT-II: nominated-but-withdrawn; FDA cites melanoma, PRES, priapism case reports",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 2,
+  "studies": [
+   {
+    "name": "Afamelanotide for Erythropoietic Protoporphyria.",
+    "label": "Afamelanotide EPP: two RCTs (n=94 US, n=74 EU).",
+    "pmid": "26132941",
+    "doi": "10.1056/NEJMoa1411481",
+    "year": "2015",
+    "design": "RCT",
+    "n": 94
+   },
+   {
+    "name": "Melanoma associated with the use of melanotan-II.",
+    "label": "Case report: melanoma associated with MT-II.",
+    "pmid": "24355990",
+    "doi": "10.1159/000356389",
+    "year": "2014",
+    "design": "case report/series",
+    "n": ""
+   }
+  ]
+ },
+ "mk-677-ibutamoren": {
+  "slug": "mk-677-ibutamoren",
+  "name": "MK-677 (ibutamoren) — non-peptide",
+  "tier": 3,
+  "grade": "B",
+  "gradeLetter": "B",
+  "classKey": "gh",
+  "classLabel": "GH secretagogues & GH axis",
+  "goals": [
+   "muscle",
+   "sleep"
+  ],
+  "goalLabels": [
+   "Muscle / body composition",
+   "Sleep"
+  ],
+  "summary": "Oral GH secretagogue. Research verification: Yes (TGA pending). 2 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Oral ghrelin mimetic; t½ ~24 h.",
+  "oneLiner": "Oral ghrelin mimetic; t½ ~24 h.",
+  "fda": "Not approved.",
+  "compounding": "503A and 503B Category 2 (CHF signal)",
+  "dea": "Not controlled.",
+  "wada": "S2.2.4 GH-releasing factors: GHRH & analogues (CJC-1295, sermorelin, tesamorelin), GHS (ibutamoren, ipamorelin), GHRPs (GHRP-2/6, hexarelin)",
+  "studyCount": 2,
+  "studies": [
+   {
+    "name": "MK-0677 (ibutamoren mesylate) for the treatment of patients recovering from hip fracture: a multicenter, randomized, placebo-controlled phase IIb study.",
+    "label": "Hip fracture trial terminated early for CHF signal.",
+    "pmid": "21067829",
+    "doi": "10.1016/j.archger.2010.10.004",
+    "year": "2011",
+    "design": "RCT",
+    "n": 123
+   },
+   {
+    "name": "Effects of an oral ghrelin mimetic on body composition and clinical outcomes in healthy older adults: a randomized trial.",
+    "label": "Healthy older adults n=65, 2 y: ↑GH/IGF-1, fat-free mass; no strength/function gain.",
+    "pmid": "18981485",
+    "doi": "10.7326/0003-4819-149-9-200811040-00003",
+    "year": "2008",
+    "design": "RCT",
+    "n": 65
+   }
+  ]
+ },
+ "mots-c": {
+  "slug": "mots-c",
+  "name": "MOTS-c",
+  "tier": 3,
+  "grade": "C",
+  "gradeLetter": "C",
+  "classKey": "longevity",
+  "classLabel": "Longevity / mitochondrial",
+  "goals": [
+   "longevity",
+   "weight-loss"
+  ],
+  "goalLabels": [
+   "Longevity",
+   "Weight loss"
+  ],
+  "summary": "Mitochondrial-derived peptide. Research verification: Yes (TGA pending). 0 human study record(s) in the FitClinicMD studies database (plus 1 preclinical animal/lab record(s), shown for context only).",
+  "mechanism": "AMPK activation.",
+  "oneLiner": "AMPK activation.",
+  "fda": "Not approved.",
+  "compounding": "Removed from 503A Category 2 on ~Apr 22 2026 after nominations were withdrawn; PCAC voted Jul 23-24 2026 to recommend 503A bulks-list inclusion, but no rulemaking yet, so not lawfully compoundable and not in Category 1. FDA list:",
+  "dea": "Not controlled.",
+  "wada": "S4.4 Metabolic modulators (incl. insulins & mimetics, AMPK activators) — Listed by WADA as an AMPK activator under S4.4 (verify wording in PDF section S4.4); also captured by S0 as non-approved.",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "The mitochondrial-derived peptide MOTS-c promotes metabolic homeostasis and reduces obesity and insulin resistance.",
+    "label": "Discovery paper (mouse).",
+    "pmid": "25738459",
+    "doi": "10.1016/j.cmet.2015.02.009",
+    "year": "2015",
+    "design": "preclinical (animal/lab — not a human study)",
+    "n": ""
+   }
+  ]
+ },
+ "nandrolone": {
+  "slug": "nandrolone",
+  "name": "Nandrolone & other AAS",
+  "tier": 2,
+  "grade": "B",
+  "gradeLetter": "B",
+  "classKey": "aas",
+  "classLabel": "Androgens / AAS",
+  "goals": [
+   "muscle"
+  ],
+  "goalLabels": [
+   "Muscle / body composition"
+  ],
+  "summary": "AAS. Research verification: Yes (TGA pending). 2 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "AR agonist (19-nortestosterone).",
+  "oneLiner": "AR agonist (19-nortestosterone).",
+  "fda": "Nandrolone decanoate: approved ANDA history (anemia of CKD); US availability limited (not verified in this pass).",
+  "compounding": "",
+  "dea": "DEA Schedule III.",
+  "wada": "S1 Anabolic agents",
+  "studyCount": 2,
+  "studies": [
+   {
+    "name": "Cardiovascular Toxicity of Illicit Anabolic-Androgenic Steroid Use.",
+    "label": "AHA statement: cardiovascular toxicity of illicit AAS.",
+    "pmid": "28533317",
+    "doi": "10.1161/CIRCULATIONAHA.116.026945",
+    "year": "2017",
+    "design": "observational",
+    "n": ""
+   },
+   {
+    "name": "Effects of nandrolone decanoate compared with placebo or testosterone on HIV-associated wasting.",
+    "label": "HIV-associated weight loss RCT.",
+    "pmid": "16494628",
+    "doi": "10.1111/j.1468-1293.2006.00358.x",
+    "year": "2006",
+    "design": "RCT",
+    "n": 303
+   }
+  ]
+ },
+ "octreotide-lanreotide": {
+  "slug": "octreotide-lanreotide",
+  "name": "Octreotide / Lanreotide",
+  "tier": 1,
+  "grade": "A",
+  "gradeLetter": "A",
+  "classKey": "metabolic",
+  "classLabel": "Metabolic (other)",
+  "goals": [],
+  "goalLabels": [],
+  "summary": "Somatostatin analogs. Research verification: Yes (TGA pending). 2 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "SSTR2/5 agonists.",
+  "oneLiner": "SSTR2/5 agonists.",
+  "fda": "Approved: Sandostatin/LAR, Mycapssa; Somatuline Depot.",
+  "compounding": "Approved.",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 2,
+  "studies": [
+   {
+    "name": "Lanreotide in metastatic enteropancreatic neuroendocrine tumors.",
+    "label": "Trial",
+    "pmid": "25014687",
+    "doi": "10.1056/NEJMoa1316158",
+    "year": "2014",
+    "design": "RCT",
+    "n": ""
+   },
+   {
+    "name": "Placebo-controlled, double-blind, prospective, randomized study on the effect of octreotide LAR in the control of tumor growth in patients with metastatic neuroendocrine midgut tumors: a report from the PROMID Study Group.",
+    "label": "PROMID, n=85 midgut NETs.",
+    "pmid": "19704057",
+    "doi": "10.1200/JCO.2009.22.8510",
+    "year": "2009",
+    "design": "RCT",
+    "n": 85
+   }
+  ]
+ },
+ "orforglipron": {
+  "slug": "orforglipron",
+  "name": "Orforglipron",
+  "tier": 1,
+  "grade": "A",
+  "gradeLetter": "A",
+  "classKey": "glp1",
+  "classLabel": "GLP-1 / incretins & amylin",
+  "goals": [
+   "weight-loss"
+  ],
+  "goalLabels": [
+   "Weight loss"
+  ],
+  "summary": "Oral non-peptide GLP-1 RA. Research verification: Yes (TGA pending). 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Small-molecule GLP-1R agonist, once-daily oral without food restriction.",
+  "oneLiner": "Small-molecule GLP-1R agonist, once-daily oral without food restriction.",
+  "fda": "Approved Apr 1 2026: Foundayo (chronic weight management, adults)",
+  "compounding": "Not compoundable (no bulks listing).",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Orforglipron, an Oral Small-Molecule GLP-1 Receptor Agonist for Obesity Treatment.",
+    "label": "Trial",
+    "pmid": "40960239",
+    "doi": "10.1056/NEJMoa2511774",
+    "year": "2025",
+    "design": "RCT",
+    "n": 3127
+   }
+  ]
+ },
+ "oxandrolone": {
+  "slug": "oxandrolone",
+  "name": "Oxandrolone",
+  "tier": 3,
+  "grade": "B",
+  "gradeLetter": "B",
+  "classKey": "aas",
+  "classLabel": "Androgens / AAS",
+  "goals": [
+   "muscle"
+  ],
+  "goalLabels": [
+   "Muscle / body composition"
+  ],
+  "summary": "AAS. Research verification: Yes (TGA pending). 2 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Oral AAS.",
+  "oneLiner": "Oral AAS.",
+  "fda": "FDA withdrew approval Jun 2023; determined withdrawn for safety/effectiveness (liver risks)",
+  "compounding": "Not available.",
+  "dea": "DEA Schedule III.",
+  "wada": "S1 Anabolic agents",
+  "studyCount": 2,
+  "studies": [
+   {
+    "name": "The effects of oxandrolone and exercise on muscle mass and function in children with severe burns.",
+    "label": "Children with severe burns: muscle mass/function.",
+    "pmid": "17130281",
+    "doi": "10.1542/peds.2006-1548",
+    "year": "2007",
+    "design": "RCT",
+    "n": ""
+   },
+   {
+    "name": "Oxandrolone in the treatment of HIV-associated weight loss in men: a randomized, double-blind, placebo-controlled study.",
+    "label": "HIV wasting men RCT.",
+    "pmid": "16540931",
+    "doi": "10.1097/01.qai.0000197546.56131.40",
+    "year": "2006",
+    "design": "RCT",
+    "n": ""
+   }
+  ]
+ },
+ "oxytocin": {
+  "slug": "oxytocin",
+  "name": "Oxytocin",
+  "tier": 1,
+  "grade": "A (obstetric) / B (intranasal)",
+  "gradeLetter": "A",
+  "classKey": "sexual",
+  "classLabel": "Sexual health",
+  "goals": [
+   "sexual-function"
+  ],
+  "goalLabels": [
+   "Sexual function"
+  ],
+  "summary": "Neurohypophyseal hormone. Research verification: Yes (TGA pending). 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "OXTR agonist.",
+  "oneLiner": "OXTR agonist.",
+  "fda": "Approved: Pitocin (IV obstetric). Intranasal not approved in US.",
+  "compounding": "Approved product.",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Intranasal Oxytocin in Children and Adolescents with Autism Spectrum Disorder.",
+    "label": "Intranasal, n=290 children/adolescents with ASD: no benefit.",
+    "pmid": "34644471",
+    "doi": "10.1056/NEJMoa2103583",
+    "year": "2021",
+    "design": "RCT",
+    "n": 290
+   }
+  ]
+ },
+ "pramlintide": {
+  "slug": "pramlintide",
+  "name": "Pramlintide",
+  "tier": 1,
+  "grade": "A",
+  "gradeLetter": "A",
+  "classKey": "glp1",
+  "classLabel": "GLP-1 / incretins & amylin",
+  "goals": [
+   "weight-loss"
+  ],
+  "goalLabels": [
+   "Weight loss"
+  ],
+  "summary": "Amylin analog. Research verification: Partial. 0 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Amylin agonist.",
+  "oneLiner": "Amylin agonist.",
+  "fda": "Approved: Symlin.",
+  "compounding": "Approved.",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 0,
+  "studies": []
+ },
+ "retatrutide": {
+  "slug": "retatrutide",
+  "name": "Retatrutide",
+  "tier": 3,
+  "grade": "A (efficacy) — unapproved",
+  "gradeLetter": "A",
+  "classKey": "glp1",
+  "classLabel": "GLP-1 / incretins & amylin",
+  "goals": [
+   "weight-loss"
+  ],
+  "goalLabels": [
+   "Weight loss"
+  ],
+  "summary": "GIP/GLP-1/glucagon triple agonist. Research verification: Yes (TGA pending). 2 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Triple agonist; t½ ~6 d.",
+  "oneLiner": "Triple agonist; t½ ~6 d.",
+  "fda": "Investigational; Lilly submission planned (reported Q1 2027).",
+  "compounding": "Not compoundable; 'research' sales are illegal unapproved drugs.",
+  "dea": "Not controlled.",
+  "wada": "S0 Non-approved substances",
+  "studyCount": 2,
+  "studies": [
+   {
+    "name": "Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity.",
+    "label": "Phase 3 TRIUMPH-1 (NEJM 2026): ~25% at 80 wk on 12 mg (per publication summary).",
+    "pmid": "42814954",
+    "doi": "",
+    "year": "2026",
+    "design": "RCT",
+    "n": 2339
+   },
+   {
+    "name": "Triple-Hormone-Receptor Agonist Retatrutide for Obesity - A Phase 2 Trial.",
+    "label": "Phase 2, n=338: −24.2% at 48 wk (12 mg).",
+    "pmid": "37366315",
+    "doi": "10.1056/NEJMoa2301972",
+    "year": "2023",
+    "design": "RCT",
+    "n": 338
+   }
+  ]
+ },
+ "sarms": {
+  "slug": "sarms",
+  "name": "SARMs (ostarine, LGD-4033, RAD-140)",
+  "tier": 3,
+  "grade": "B (ostarine/LGD) / D (RAD-140)",
+  "gradeLetter": "B",
+  "classKey": "sarms",
+  "classLabel": "SARMs",
+  "goals": [
+   "muscle"
+  ],
+  "goalLabels": [
+   "Muscle / body composition"
+  ],
+  "summary": "Selective androgen receptor modulators. Research verification: Yes (TGA pending). 4 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Tissue-selective AR agonists.",
+  "oneLiner": "Tissue-selective AR agonists.",
+  "fda": "None approved; FDA warns against SARMs in supplements.",
+  "compounding": "Not compoundable.",
+  "dea": "Not federally scheduled (as far as found).",
+  "wada": "S1.2 Other anabolic agents (incl. SARMs)",
+  "studyCount": 4,
+  "studies": [
+   {
+    "name": "Idiosyncratic drug-induced liver injury related to use of novel selective androgen receptor modulator RAD140 (Testalone): a case report.",
+    "label": "RAD-140 drug-induced liver injury case.",
+    "pmid": "36978171",
+    "doi": "10.1186/s13256-023-03847-8",
+    "year": "2023",
+    "design": "case report/series",
+    "n": ""
+   },
+   {
+    "name": "Chemical Composition and Labeling of Substances Marketed as Selective Androgen Receptor Modulators and Sold via the Internet.",
+    "label": "JAMA 2017: of 44 'SARM' products, only 52% contained SARMs.",
+    "pmid": "29183075",
+    "doi": "10.1001/jama.2017.17069",
+    "year": "2017",
+    "design": "other/unspecified",
+    "n": ""
+   },
+   {
+    "name": "Effects of enobosarm on muscle wasting and physical function in patients with cancer: a double-blind, randomised controlled phase 2 trial.",
+    "label": "Enobosarm phase 2 cancer cachexia, n=159.",
+    "pmid": "23499390",
+    "doi": "10.1016/S1470-2045(13)70055-X",
+    "year": "2013",
+    "design": "RCT",
+    "n": 159
+   },
+   {
+    "name": "The safety, pharmacokinetics, and effects of LGD-4033, a novel nonsteroidal oral, selective androgen receptor modulator, in healthy young men.",
+    "label": "LGD-4033 phase 1, n=76 young men.",
+    "pmid": "22459616",
+    "doi": "10.1093/gerona/gls078",
+    "year": "2013",
+    "design": "RCT",
+    "n": 76
+   }
+  ]
+ },
+ "sermorelin": {
+  "slug": "sermorelin",
+  "name": "Sermorelin",
+  "tier": 2,
+  "grade": "B",
+  "gradeLetter": "B",
+  "classKey": "gh",
+  "classLabel": "GH secretagogues & GH axis",
+  "goals": [
+   "muscle",
+   "sleep"
+  ],
+  "goalLabels": [
+   "Muscle / body composition",
+   "Sleep"
+  ],
+  "summary": "GHRH(1-29). Research verification: Yes (TGA pending). 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "GHRH-R agonist, t½ minutes.",
+  "oneLiner": "GHRH-R agonist, t½ minutes.",
+  "fda": "Geref approved 1990s, withdrawn by sponsor (not for safety).",
+  "compounding": "Compoundable under 503A as component of previously approved drug (not verified in this pass with FDA listing).",
+  "dea": "Not controlled.",
+  "wada": "S2.2.4 GH-releasing factors: GHRH & analogues (CJC-1295, sermorelin, tesamorelin), GHS (ibutamoren, ipamorelin), GHRPs (GHRP-2/6, hexarelin)",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Sermorelin: a review of its use in the diagnosis and treatment of children with idiopathic growth hormone deficiency.",
+    "label": "Review of pediatric GHD use (BioDrugs 1999).",
+    "pmid": "18031173",
+    "doi": "10.2165/00063030-199912020-00007",
+    "year": "1999",
+    "design": "review (narrative)",
+    "n": ""
+   }
+  ]
+ },
+ "setmelanotide": {
+  "slug": "setmelanotide",
+  "name": "Setmelanotide",
+  "tier": 1,
+  "grade": "A",
+  "gradeLetter": "A",
+  "classKey": "melanocortin",
+  "classLabel": "Melanocortins",
+  "goals": [
+   "weight-loss"
+  ],
+  "goalLabels": [
+   "Weight loss"
+  ],
+  "summary": "MC4R agonist. Research verification: Yes (TGA pending). 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "MC4R agonist.",
+  "oneLiner": "MC4R agonist.",
+  "fda": "Approved: Imcivree.",
+  "compounding": "Approved.",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Efficacy and safety of setmelanotide, an MC4R agonist, in individuals with severe obesity due to LEPR or POMC deficiency: single-arm, open-label, multicentre, phase 3 trials.",
+    "label": "Two phase 3 trials (POMC n=10, LEPR n=11).",
+    "pmid": "33137293",
+    "doi": "10.1016/S2213-8587(20)30364-8",
+    "year": "2020",
+    "design": "clinical trial (non-randomized/unspecified)",
+    "n": 21
+   }
+  ]
+ },
+ "survodutide": {
+  "slug": "survodutide",
+  "name": "Survodutide",
+  "tier": 3,
+  "grade": "B",
+  "gradeLetter": "B",
+  "classKey": "glp1",
+  "classLabel": "GLP-1 / incretins & amylin",
+  "goals": [
+   "weight-loss"
+  ],
+  "goalLabels": [
+   "Weight loss"
+  ],
+  "summary": "Glucagon/GLP-1 dual agonist. Research verification: Yes (TGA pending). 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Glucagon/GLP-1 dual agonist.",
+  "oneLiner": "Glucagon/GLP-1 dual agonist.",
+  "fda": "Phase 3 (SYNCHRONIZE) — not FDA-approved.",
+  "compounding": "Not compoundable.",
+  "dea": "Not controlled.",
+  "wada": "S0 Non-approved substances",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Glucagon and GLP-1 receptor dual agonist survodutide for obesity: a randomised, double-blind, placebo-controlled, dose-finding phase 2 trial.",
+    "label": "Peer-reviewed trial.",
+    "pmid": "38330987",
+    "doi": "10.1016/S2213-8587(23)00356-X",
+    "year": "2024",
+    "design": "RCT",
+    "n": 387
+   }
+  ]
+ },
+ "tb-500-thymosin-beta-4": {
+  "slug": "tb-500-thymosin-beta-4",
+  "name": "TB-500 / Thymosin β4",
+  "tier": 3,
+  "grade": "B (Tβ4) / C (TB-500)",
+  "gradeLetter": "B",
+  "classKey": "healing",
+  "classLabel": "Healing / repair",
+  "goals": [
+   "recovery"
+  ],
+  "goalLabels": [
+   "Recovery / injury"
+  ],
+  "summary": "Actin-binding peptide. Research verification: Yes (TGA pending). 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Tβ4 sequesters G-actin; TB-500 = LKKTETQ fragment.",
+  "oneLiner": "Tβ4 sequesters G-actin; TB-500 = LKKTETQ fragment.",
+  "fda": "Not approved.",
+  "compounding": "Removed from 503A Category 2 on ~Apr 22 2026 after nominations were withdrawn; PCAC voted Jul 23-24 2026 to recommend 503A bulks-list inclusion, but no rulemaking yet, so not lawfully compoundable and not in Category 1. FDA list:",
+  "dea": "Not controlled.",
+  "wada": "S2.3 Growth factors & modulators (IGF-1/mecasermin & analogues, MGFs, thymosin-β4 & derivatives e.g. TB-500, HGF)",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Thymosin beta 4 ophthalmic solution for dry eye: a randomized, placebo-controlled, Phase II clinical trial conducted using the controlled adverse environment (CAE™) model.",
+    "label": "Trial",
+    "pmid": "26056426",
+    "doi": "10.2147/OPTH.S80954",
+    "year": "2015",
+    "design": "RCT",
+    "n": ""
+   }
+  ]
+ },
+ "tesamorelin": {
+  "slug": "tesamorelin",
+  "name": "Tesamorelin",
+  "tier": 1,
+  "grade": "A",
+  "gradeLetter": "A",
+  "classKey": "gh",
+  "classLabel": "GH secretagogues & GH axis",
+  "goals": [
+   "weight-loss"
+  ],
+  "goalLabels": [
+   "Weight loss"
+  ],
+  "summary": "GHRH analog. Research verification: Yes (TGA pending). 2 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Stabilized GHRH(1-44).",
+  "oneLiner": "Stabilized GHRH(1-44).",
+  "fda": "Approved: Egrifta SV/WR (HIV lipodystrophy).",
+  "compounding": "Approved product; copies restricted.",
+  "dea": "Not controlled.",
+  "wada": "S2.2.4 GH-releasing factors: GHRH & analogues (CJC-1295, sermorelin, tesamorelin), GHS (ibutamoren, ipamorelin), GHRPs (GHRP-2/6, hexarelin)",
+  "studyCount": 2,
+  "studies": [
+   {
+    "name": "Effects of tesamorelin on non-alcoholic fatty liver disease in HIV: a randomised, double-blind, multicentre trial.",
+    "label": "n=61 HIV-NAFLD: liver fat reduction.",
+    "pmid": "31611038",
+    "doi": "10.1016/S2352-3018(19)30338-8",
+    "year": "2019",
+    "design": "RCT",
+    "n": 61
+   },
+   {
+    "name": "Metabolic effects of a growth hormone-releasing factor in patients with HIV.",
+    "label": "n=412, 26 wk: VAT −15.2% vs +5.0%.",
+    "pmid": "18057338",
+    "doi": "10.1056/NEJMoa072375",
+    "year": "2007",
+    "design": "RCT",
+    "n": 412
+   }
+  ]
+ },
+ "testosterone": {
+  "slug": "testosterone",
+  "name": "Testosterone (all esters, TRT)",
+  "tier": 1,
+  "grade": "A",
+  "gradeLetter": "A",
+  "classKey": "aas",
+  "classLabel": "Androgens / AAS",
+  "goals": [
+   "hormone",
+   "muscle",
+   "sexual-function"
+  ],
+  "goalLabels": [
+   "Hormone optimization / menopause / low T",
+   "Muscle / body composition",
+   "Sexual function"
+  ],
+  "summary": "Androgen. Research verification: Yes (TGA pending). 5 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "AR agonist; esters (cypionate, enanthate, undecanoate), gels, pellets, oral TU.",
+  "oneLiner": "AR agonist; esters (cypionate, enanthate, undecanoate), gels, pellets, oral TU.",
+  "fda": "Approved for male hypogonadism (multiple products).",
+  "compounding": "Approved; also compounded.",
+  "dea": "DEA Schedule III (anabolic steroid)",
+  "wada": "S1 Anabolic agents",
+  "studyCount": 5,
+  "studies": [
+   {
+    "name": "Testosterone Treatment and Fractures in Men with Hypogonadism.",
+    "label": "TRAVERSE fracture substudy: no fracture reduction (more fractures numerically).",
+    "pmid": "38231621",
+    "doi": "10.1056/NEJMoa2308836",
+    "year": "2024",
+    "design": "RCT",
+    "n": 5204
+   },
+   {
+    "name": "Cardiovascular Safety of Testosterone-Replacement Therapy.",
+    "label": "TRAVERSE, n=5,246 men 45-80 y: noninferior MACE; more AF, AKI, PE.",
+    "pmid": "37326322",
+    "doi": "10.1056/NEJMoa2215025",
+    "year": "2023",
+    "design": "RCT",
+    "n": 5246
+   },
+   {
+    "name": "Global Consensus Position Statement on the Use of Testosterone Therapy for Women.",
+    "label": "Global consensus: HSDD in postmenopausal women only.",
+    "pmid": "31498871",
+    "doi": "10.1210/jc.2019-01603",
+    "year": "2019",
+    "design": "other/unspecified",
+    "n": ""
+   },
+   {
+    "name": "Effects of Testosterone Treatment in Older Men.",
+    "label": "TTrials, n=790 men ≥65: modest sexual function/mood benefits.",
+    "pmid": "26886521",
+    "doi": "10.1056/NEJMoa1506119",
+    "year": "2016",
+    "design": "RCT",
+    "n": 790
+   },
+   {
+    "name": "The effects of supraphysiologic doses of testosterone on muscle size and strength in normal men.",
+    "label": "Supraphysiologic 600 mg/wk enanthate, n=43: ↑muscle size/strength (bodybuilding-relevant).",
+    "pmid": "8637535",
+    "doi": "10.1056/NEJM199607043350101",
+    "year": "1996",
+    "design": "RCT",
+    "n": 43
+   }
+  ]
+ },
+ "thyroid-t3-t4": {
+  "slug": "thyroid-t3-t4",
+  "name": "Thyroid hormone (T4/T3)",
+  "tier": 1,
+  "grade": "A",
+  "gradeLetter": "A",
+  "classKey": "thyroid",
+  "classLabel": "Thyroid",
+  "goals": [
+   "hormone"
+  ],
+  "goalLabels": [
+   "Hormone optimization / menopause / low T"
+  ],
+  "summary": "Thyroid hormones. Research verification: Yes (TGA pending). 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "TR agonists.",
+  "oneLiner": "TR agonists.",
+  "fda": "Approved (levothyroxine, liothyronine).",
+  "compounding": "Approved.",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Thyroid Hormone Therapy for Older Adults with Subclinical Hypothyroidism.",
+    "label": "TRUST, n=737 adults ≥65 subclinical hypothyroidism: no benefit.",
+    "pmid": "28402245",
+    "doi": "10.1056/NEJMoa1603825",
+    "year": "2017",
+    "design": "RCT",
+    "n": 737
+   }
+  ]
+ },
+ "tirzepatide": {
+  "slug": "tirzepatide",
+  "name": "Tirzepatide",
+  "tier": 1,
+  "grade": "A",
+  "gradeLetter": "A",
+  "classKey": "glp1",
+  "classLabel": "GLP-1 / incretins & amylin",
+  "goals": [
+   "weight-loss"
+  ],
+  "goalLabels": [
+   "Weight loss"
+  ],
+  "summary": "GIP/GLP-1 dual agonist. Research verification: Yes (TGA pending). 3 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Dual GIP/GLP-1R agonist; t½ ~5 d.",
+  "oneLiner": "Dual GIP/GLP-1R agonist; t½ ~5 d.",
+  "fda": "Approved: Mounjaro (T2D), Zepbound (obesity; moderate-severe OSA with obesity).",
+  "compounding": "Shortage resolved (declaratory order Dec 19 2024); 503A/503B discretion ended Mar 19 2025",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 3,
+  "studies": [
+   {
+    "name": "Tirzepatide for the Treatment of Obstructive Sleep Apnea and Obesity.",
+    "label": "OSA+obesity: AHI reduction, basis of OSA indication.",
+    "pmid": "38912654",
+    "doi": "10.1056/NEJMoa2404881",
+    "year": "2024",
+    "design": "RCT",
+    "n": ""
+   },
+   {
+    "name": "Tirzepatide Once Weekly for the Treatment of Obesity.",
+    "label": "n=2,539, 72 wk: −20.9% (15 mg) vs −3.1%.",
+    "pmid": "35658024",
+    "doi": "10.1056/NEJMoa2206038",
+    "year": "2022",
+    "design": "RCT",
+    "n": 2539
+   },
+   {
+    "name": "Tirzepatide versus Semaglutide Once Weekly in Patients with Type 2 Diabetes.",
+    "label": "T2D, n=1,879: superior HbA1c and weight vs semaglutide 1 mg.",
+    "pmid": "34170647",
+    "doi": "10.1056/NEJMoa2107519",
+    "year": "2021",
+    "design": "RCT",
+    "n": 1879
+   }
+  ]
+ },
+ "vosoritide": {
+  "slug": "vosoritide",
+  "name": "Vosoritide",
+  "tier": 1,
+  "grade": "A",
+  "gradeLetter": "A",
+  "classKey": "metabolic",
+  "classLabel": "Metabolic (other)",
+  "goals": [],
+  "goalLabels": [],
+  "summary": "CNP analog. Research verification: Yes (TGA pending). 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "NPR-B agonist.",
+  "oneLiner": "NPR-B agonist.",
+  "fda": "Approved: Voxzogo.",
+  "compounding": "Approved.",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Once-daily, subcutaneous vosoritide therapy in children with achondroplasia: a randomised, double-blind, phase 3, placebo-controlled, multicentre trial.",
+    "label": "Phase 3, n=121 children with achondroplasia.",
+    "pmid": "32891212",
+    "doi": "10.1016/S0140-6736(20)31541-5",
+    "year": "2020",
+    "design": "RCT",
+    "n": 121
+   }
+  ]
+ },
+ "semaglutide": {
+  "slug": "semaglutide",
+  "name": "Semaglutide",
+  "tier": 1,
+  "grade": "A",
+  "gradeLetter": "A",
+  "classKey": "glp1",
+  "classLabel": "GLP-1 / incretins & amylin",
+  "goals": [
+   "weight-loss"
+  ],
+  "goalLabels": [
+   "Weight loss"
+  ],
+  "summary": "GLP-1 RA. Research verification: Yes (TGA pending). Origin: India. Citations verified: yes. 8 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "GLP-1R agonist; t½ ~7 d (SC weekly); oral formulation with SNAC.",
+  "oneLiner": "GLP-1R agonist; t½ ~7 d (SC weekly); oral formulation with SNAC.",
+  "fda": "Approved: Ozempic (T2D, CV, CKD), Wegovy SC (obesity ≥12 y, CV risk reduction), Rybelsus (oral T2D), Wegovy oral 25 mg (obesity; approved Dec 2025 — label",
+  "compounding": "Shortage resolved Feb 21 2025; 503A enforcement discretion ended Apr 22 2025, 503B May 22 2025. Not on 503B bulks list; 'essentially a copy' limits apply (FDA update Apr 1 2026: no action if ≤4 Rx/month of a copy)",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 8,
+  "studies": [
+   {
+    "name": "Oral Semaglutide at a Dose of 25 mg in Adults with Overweight or Obesity.",
+    "label": "Oral 25 mg in obesity.",
+    "pmid": "40934115",
+    "doi": "10.1056/NEJMoa2500969",
+    "year": "2025",
+    "design": "RCT",
+    "n": 307
+   },
+   {
+    "name": "Effects of Semaglutide on Chronic Kidney Disease in Patients with Type 2 Diabetes.",
+    "label": "T2D+CKD kidney outcomes; 24% relative risk reduction in primary kidney composite.",
+    "pmid": "38785209",
+    "doi": "10.1056/NEJMoa2403347",
+    "year": "2024",
+    "design": "RCT",
+    "n": 3533
+   },
+   {
+    "name": "Comparative effectiveness of GLP-1 receptor agonists on glycaemic control, body weight, and lipid profile for type 2 diabetes: systematic review and network meta-analysis.",
+    "label": "Network meta-analysis of GLP-1RAs (BMJ 2024).",
+    "pmid": "38286487",
+    "doi": "10.1136/bmj-2023-076410",
+    "year": "2024",
+    "design": "meta-analysis",
+    "n": 39246
+   },
+   {
+    "name": "Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes.",
+    "label": "n=17,604, CVD without diabetes: MACE HR 0.80.",
+    "pmid": "37952131",
+    "doi": "10.1056/NEJMoa2307563",
+    "year": "2023",
+    "design": "RCT",
+    "n": 17604
+   },
+   {
+    "name": "Once-Weekly Semaglutide in Adolescents with Obesity.",
+    "label": "Adolescents 12-<18 y, n=201: BMI −16.1% vs +0.6%.",
+    "pmid": "36322838",
+    "doi": "10.1056/NEJMoa2208601",
+    "year": "2022",
+    "design": "RCT",
+    "n": 201
+   },
+   {
+    "name": "Once-Weekly Semaglutide in Adults with Overweight or Obesity.",
+    "label": "n=1,961 adults, BMI≥30 (or ≥27+comorbidity), 68-wk RCT: −14.9% vs −2.4%.",
+    "pmid": "33567185",
+    "doi": "10.1056/NEJMoa2032183",
+    "year": "2021",
+    "design": "RCT",
+    "n": 1961
+   },
+   {
+    "name": "Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes.",
+    "label": "T2D CV outcomes (n=3,297): MACE HR 0.74.",
+    "pmid": "27633186",
+    "doi": "10.1056/NEJMoa1607141",
+    "year": "2016",
+    "design": "RCT",
+    "n": 3297
+   },
+   {
+    "name": "SIZE-DM trial.",
+    "label": "",
+    "pmid": "",
+    "doi": "",
+    "year": "",
+    "design": "RCT",
+    "n": ""
+   }
+  ]
+ },
+ "cerebrolysin": {
+  "slug": "cerebrolysin",
+  "name": "Cerebrolysin",
+  "tier": 3,
+  "grade": "B (negative)",
+  "gradeLetter": "B",
+  "classKey": "nootropic",
+  "classLabel": "Nootropic / neuro peptides",
+  "goals": [
+   "cognition"
+  ],
+  "goalLabels": [
+   "Cognition"
+  ],
+  "summary": "Porcine brain peptide mixture. Research verification: Yes (TGA pending). Origin: Austria (EVER Pharma); heavy use in Russia, E. Europe, China, Asia. Citations verified: yes. 6 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Neurotrophic mixture.\n(East) Porcine-brain-derived mixture of low-molecular-weight peptides and amino acids; proposed neurotrophic action.",
+  "oneLiner": "Neurotrophic mixture.",
+  "fda": "Not approved in US.",
+  "compounding": "Not compoundable.",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 6,
+  "studies": [
+   {
+    "name": "Cerebrolysin for acute ischaemic stroke.",
+    "label": "no mortality benefit; probably more non-fatal SAEs.",
+    "pmid": "37818733",
+    "doi": "10.1002/14651858.CD007026.pub7",
+    "year": "2023",
+    "design": "systematic review",
+    "n": 1773
+   },
+   {
+    "name": "Cochrane 2023 update.",
+    "label": "",
+    "pmid": "",
+    "doi": "",
+    "year": "2023",
+    "design": "systematic review",
+    "n": 1601
+   },
+   {
+    "name": "Ziganshina LE et al. Cochrane 2020 (PMID 32662068).",
+    "label": "",
+    "pmid": "32662068",
+    "doi": "10.1002/14651858.CD007026.pub6",
+    "year": "2020",
+    "design": "systematic review",
+    "n": 1601
+   },
+   {
+    "name": "Cui S et al. Cochrane 2019, CD008900.pub3.",
+    "label": "",
+    "pmid": "",
+    "doi": "",
+    "year": "2019",
+    "design": "systematic review",
+    "n": 597
+   },
+   {
+    "name": "Muresanu DF et al. CARS. Stroke 2016.",
+    "label": "",
+    "pmid": "26564102",
+    "doi": "",
+    "year": "2016",
+    "design": "clinical trial (non-randomized/unspecified)",
+    "n": ""
+   },
+   {
+    "name": "Heiss WD et al. CASTA. Stroke 2012;43:630-6 (NCT00868283).",
+    "label": "",
+    "pmid": "22282884",
+    "doi": "",
+    "year": "2012",
+    "design": "RCT",
+    "n": 1070
+   }
+  ]
+ },
+ "epitalon": {
+  "slug": "epitalon",
+  "name": "Epitalon",
+  "tier": 3,
+  "grade": "C",
+  "gradeLetter": "C",
+  "classKey": "bioregulator",
+  "classLabel": "Bioregulators",
+  "goals": [
+   "longevity",
+   "sleep"
+  ],
+  "goalLabels": [
+   "Longevity",
+   "Sleep"
+  ],
+  "summary": "Synthetic tetrapeptide. Research verification: Yes (TGA pending). Origin: Russia (Khavinson, St. Petersburg Institute of Bioregulation & Gerontology). Citations verified: yes. 2 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Claimed telomerase activation.\n(East) Epithalamin = bovine pineal peptide extract; Epitalon = synthetic tetrapeptide Ala-Glu-Asp-Gly. In telomerase-negative human fetal fibroblasts, Epitalon induced telomerase catalytic-subunit expression and telomere elongation (in vitro only) 3.",
+  "oneLiner": "Claimed telomerase activation.",
+  "fda": "Not approved.",
+  "compounding": "Removed from 503A Category 2 on ~Apr 22 2026 after nominations were withdrawn; PCAC voted Jul 23-24 2026 to recommend 503A bulks-list inclusion, but no rulemaking yet, so not lawfully compoundable and not in Category 1. FDA list:",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 2,
+  "studies": [
+   {
+    "name": "Korkushko OV, Khavinson VKh, et al. Geroprotective effect of epithalamine... Bull Exp Biol Med 2006;142(3):356-9.",
+    "label": "",
+    "pmid": "17426848",
+    "doi": "",
+    "year": "2006",
+    "design": "RCT",
+    "n": ""
+   },
+   {
+    "name": "Khavinson VKh, Morozov VG. Peptides of pineal gland and thymus prolong human life. Neuro Endocrinol Lett 2003.",
+    "label": "",
+    "pmid": "14523363",
+    "doi": "",
+    "year": "2003",
+    "design": "observational",
+    "n": ""
+   }
+  ]
+ },
+ "somatropin-hgh": {
+  "slug": "somatropin-hgh",
+  "name": "Somatropin (recombinant HGH)",
+  "tier": 1,
+  "grade": "A",
+  "gradeLetter": "A",
+  "classKey": "gh",
+  "classLabel": "GH secretagogues & GH axis",
+  "goals": [
+   "muscle"
+  ],
+  "goalLabels": [
+   "Muscle / body composition"
+  ],
+  "summary": "Growth hormone. Research verification: Yes (TGA pending). Origin: China, Russia. Citations verified: yes. 5 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "GH receptor agonist.",
+  "oneLiner": "GH receptor agonist.",
+  "fda": "Approved for pediatric/adult GHD and others.",
+  "compounding": "Biologic (deemed BLA Mar 2020) — not compoundable",
+  "dea": "Not DEA-scheduled, but distribution for non-approved uses is a federal crime (21 USC 333(e)).",
+  "wada": "S2.2.3 Growth hormone, analogues and fragments (incl. AOD-9604, hGH 176-191)",
+  "studyCount": 5,
+  "studies": [
+   {
+    "name": "Evaluation and treatment of adult growth hormone deficiency: an Endocrine Society clinical practice guideline.",
+    "label": "Endocrine Society adult GHD guideline.",
+    "pmid": "21602453",
+    "doi": "10.1210/jc.2011-0179",
+    "year": "2011",
+    "design": "other/unspecified",
+    "n": ""
+   },
+   {
+    "name": "The effects of growth hormone on body composition and physical performance in recreational athletes: a randomized trial.",
+    "label": "Recreational athletes n=96: improved sprint capacity.",
+    "pmid": "20439575",
+    "doi": "10.7326/0003-4819-152-9-201005040-00007",
+    "year": "2010",
+    "design": "RCT",
+    "n": 96
+   },
+   {
+    "name": "Systematic review: the effects of growth hormone on athletic performance.",
+    "label": "Systematic review: GH ↑lean mass, not strength/exercise capacity.",
+    "pmid": "18347346",
+    "doi": "10.7326/0003-4819-148-10-200805200-00215",
+    "year": "2008",
+    "design": "systematic review",
+    "n": ""
+   },
+   {
+    "name": "Effects of human growth hormone in men over 60 years old.",
+    "label": "Trial",
+    "pmid": "2355952",
+    "doi": "10.1056/NEJM199007053230101",
+    "year": "1990",
+    "design": "other/unspecified",
+    "n": ""
+   },
+   {
+    "name": "Dedov et al., Rastan in GHD and Turner syndrome.",
+    "label": "",
+    "pmid": "",
+    "doi": "",
+    "year": "",
+    "design": "other/unspecified",
+    "n": ""
+   }
+  ]
+ },
+ "insulin-and-analogs": {
+  "slug": "insulin-and-analogs",
+  "name": "Insulin (incl. bodybuilding misuse)",
+  "tier": 1,
+  "grade": "A",
+  "gradeLetter": "A",
+  "classKey": "metabolic",
+  "classLabel": "Metabolic (other)",
+  "goals": [],
+  "goalLabels": [],
+  "summary": "Insulin. Research verification: Partial. Origin: India, China. Citations verified: yes. 0 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Insulin receptor agonist.",
+  "oneLiner": "Insulin receptor agonist.",
+  "fda": "Approved (many).",
+  "compounding": "Biologic (deemed BLA Mar 2020) — not compoundable from bulk.",
+  "dea": "Not controlled.",
+  "wada": "S4.4 Metabolic modulators (incl. insulins & mimetics, AMPK activators)",
+  "studyCount": 0,
+  "studies": []
+ },
+ "collagen-peptides": {
+  "slug": "collagen-peptides",
+  "name": "Collagen peptides",
+  "tier": 1,
+  "grade": "B",
+  "gradeLetter": "B",
+  "classKey": "skin",
+  "classLabel": "Skin / collagen",
+  "goals": [
+   "skin",
+   "recovery"
+  ],
+  "goalLabels": [
+   "Skin",
+   "Recovery / injury"
+  ],
+  "summary": "Food/dietary supplement. Research verification: Yes (TGA pending). Origin: Japan. Citations verified: yes. 4 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Hydrolysate di/tripeptides.",
+  "oneLiner": "Hydrolysate di/tripeptides.",
+  "fda": "Dietary supplement / food; not a drug.",
+  "compounding": "N/A.",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 4,
+  "studies": [
+   {
+    "name": "Analgesic efficacy of collagen peptide in knee osteoarthritis: a meta-analysis of randomized controlled trials.",
+    "label": "Meta-analysis knee OA pain.",
+    "pmid": "37717022",
+    "doi": "10.1186/s13018-023-04182-w",
+    "year": "2023",
+    "design": "meta-analysis",
+    "n": 507
+   },
+   {
+    "name": "Effects of hydrolyzed collagen supplementation on skin aging: a systematic review and meta-analysis.",
+    "label": "Meta-analysis, 19 RCTs, n=1,125: skin hydration/elasticity.",
+    "pmid": "33742704",
+    "doi": "10.1111/ijd.15518",
+    "year": "2021",
+    "design": "meta-analysis",
+    "n": 1125
+   },
+   {
+    "name": "Inoue N et al. J Sci Food Agric 2016.",
+    "label": "",
+    "pmid": "26840887",
+    "doi": "",
+    "year": "2016",
+    "design": "other/unspecified",
+    "n": 85
+   },
+   {
+    "name": "Cicero AFG et al. Am J Hypertens 2013 (Europeans).",
+    "label": "",
+    "pmid": "23382495",
+    "doi": "",
+    "year": "2013",
+    "design": "RCT",
+    "n": 1306
+   }
+  ]
+ },
+ "teriparatide-abaloparatide": {
+  "slug": "teriparatide-abaloparatide",
+  "name": "Teriparatide / Abaloparatide",
+  "tier": 1,
+  "grade": "A",
+  "gradeLetter": "A",
+  "classKey": "metabolic",
+  "classLabel": "Metabolic (other)",
+  "goals": [],
+  "goalLabels": [],
+  "summary": "PTH/PTHrP analogs. Research verification: Yes (TGA pending). Origin: Japan. Citations verified: yes. 3 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "PTH1R anabolic.",
+  "oneLiner": "PTH1R anabolic.",
+  "fda": "Approved: Forteo, Tymlos.",
+  "compounding": "Approved.",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 3,
+  "studies": [
+   {
+    "name": "Effect of Abaloparatide vs Placebo on New Vertebral Fractures in Postmenopausal Women With Osteoporosis: A Randomized Clinical Trial.",
+    "label": "ACTIVE, n=2,463.",
+    "pmid": "27533157",
+    "doi": "10.1001/jama.2016.11136",
+    "year": "2016",
+    "design": "RCT",
+    "n": 2463
+   },
+   {
+    "name": "Nakamura T et al. TOWER trial. J Clin Endocrinol Metab 2012.",
+    "label": "",
+    "pmid": "22723322",
+    "doi": "",
+    "year": "2012",
+    "design": "other/unspecified",
+    "n": 578
+   },
+   {
+    "name": "Effect of parathyroid hormone (1-34) on fractures and bone mineral density in postmenopausal women with osteoporosis.",
+    "label": "Trial",
+    "pmid": "11346808",
+    "doi": "10.1056/NEJM200105103441904",
+    "year": "2001",
+    "design": "RCT",
+    "n": ""
+   }
+  ]
+ },
+ "thymosin-alpha-1": {
+  "slug": "thymosin-alpha-1",
+  "name": "Thymosin α1",
+  "tier": 3,
+  "grade": "B",
+  "gradeLetter": "B",
+  "classKey": "immune",
+  "classLabel": "Immune / thymic",
+  "goals": [],
+  "goalLabels": [],
+  "summary": "Thymic immunomodulator. Research verification: Yes (TGA pending). Origin: China (widely used). Citations verified: yes. 4 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "T-cell maturation, TLR signaling.\n(East) Thymic peptide immunomodulators.",
+  "oneLiner": "T-cell maturation, TLR signaling.",
+  "fda": "Not FDA-approved (Zadaxin approved in other countries).",
+  "compounding": "Listed by FDA under 'nominated but withdrawn' from Category 2 (i.e., no longer in Category 2, but NOT on the 503A bulks list or Category 1)",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 4,
+  "studies": [
+   {
+    "name": "The efficacy and safety of thymosin α1 for sepsis (TESTS): multicentre, double blinded, randomised, placebo controlled, phase 3 trial.",
+    "label": "TESTS (BMJ 2025): multicenter double-blind RCT in sepsis (China, n=1,106) — no 28-day mortality benefit.",
+    "pmid": "39814420",
+    "doi": "10.1136/bmj-2024-082583",
+    "year": "2025",
+    "design": "RCT",
+    "n": 1106
+   },
+   {
+    "name": "TESTS trial, BMJ 2025 (PMID 39814420; NCT02867267).",
+    "label": "",
+    "pmid": "39814420",
+    "doi": "10.1136/bmj-2024-082583",
+    "year": "2025",
+    "design": "RCT",
+    "n": 1106
+   },
+   {
+    "name": "Thymosin alpha-1.",
+    "label": "Drug review (2001).",
+    "pmid": "11381492",
+    "doi": "10.1093/ajhp/58.10.886",
+    "year": "2001",
+    "design": "review (narrative)",
+    "n": ""
+   },
+   {
+    "name": "Lamivudine + thymopentin in chronic hepatitis B.",
+    "label": "",
+    "pmid": "12665914",
+    "doi": "",
+    "year": "",
+    "design": "other/unspecified",
+    "n": 98
+   }
+  ]
+ },
+ "selank": {
+  "slug": "selank",
+  "name": "Selank (Селанк, Thr-Lys-Pro-Arg-Pro-Gly-Pro)",
+  "tier": 3,
+  "grade": "B-",
+  "gradeLetter": "B",
+  "classKey": "nootropic",
+  "classLabel": "Nootropic / neuro peptides",
+  "goals": [
+   "cognition"
+  ],
+  "goalLabels": [
+   "Cognition"
+  ],
+  "summary": "Neuropeptides. Research verification: Yes (TGA pending). Origin: Russia (IMG RAS / Zakusov Institute; Peptogen). Citations verified: yes. 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Tuftsin analog / ACTH(4-10) analog.\n(East) Synthetic tuftsin analog; enkephalin-degradation modulation (serum leu-enkephalin half-life changes observed in trial) 1.",
+  "oneLiner": "Tuftsin analog / ACTH(4-10) analog.",
+  "fda": "Not approved.",
+  "compounding": "Semax: Removed from 503A Category 2 on ~Apr 22 2026 after nominations were withdrawn; PCAC voted Jul 23-24 2026 to recommend 503A bulks-list inclusion, but no rulemaking yet, so not lawfully compoundable and not in Category 1. FDA list: Selank: nominated-but-withdrawn.",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Zozulia AA et al. Zh Nevrol Psikhiatr Im S S Korsakova 2008.",
+    "label": "",
+    "pmid": "18454096",
+    "doi": "",
+    "year": "2008",
+    "design": "RCT",
+    "n": 62
+   }
+  ]
+ },
+ "semax": {
+  "slug": "semax",
+  "name": "Semax (Семакс, Met-Glu-His-Phe-Pro-Gly-Pro)",
+  "tier": 3,
+  "grade": "B-",
+  "gradeLetter": "B",
+  "classKey": "nootropic",
+  "classLabel": "Nootropic / neuro peptides",
+  "goals": [
+   "cognition"
+  ],
+  "goalLabels": [
+   "Cognition"
+  ],
+  "summary": "Neuropeptides. Research verification: Yes (TGA pending). Origin: Russia (Institute of Molecular Genetics RAS; Peptogen). Citations verified: yes. 3 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Tuftsin analog / ACTH(4-10) analog.\n(East) ACTH(4-7) analog with Pro-Gly-Pro; neurotrophic (BDNF) effects mainly in animal work; no corticotropic activity.",
+  "oneLiner": "Tuftsin analog / ACTH(4-10) analog.",
+  "fda": "Not approved.",
+  "compounding": "Semax: Removed from 503A Category 2 on ~Apr 22 2026 after nominations were withdrawn; PCAC voted Jul 23-24 2026 to recommend 503A bulks-list inclusion, but no rulemaking yet, so not lawfully compoundable and not in Category 1. FDA list: Selank: nominated-but-withdrawn.",
+  "dea": "Not controlled.",
+  "wada": "Not listed on 2026 Prohibited List (no matching section found)",
+  "studyCount": 3,
+  "studies": [
+   {
+    "name": "Meta-analysis: efficacy of Semax in acute ischemic stroke.",
+    "label": "",
+    "pmid": "",
+    "doi": "",
+    "year": "",
+    "design": "meta-analysis",
+    "n": ""
+   },
+   {
+    "name": "Effectiveness of semax in acute hemispheric ischemic stroke.",
+    "label": "",
+    "pmid": "11517472",
+    "doi": "",
+    "year": "",
+    "design": "other/unspecified",
+    "n": ""
+   },
+   {
+    "name": "Efficacy of semax at different stages of ischemic stroke.",
+    "label": "",
+    "pmid": "29798983",
+    "doi": "",
+    "year": "",
+    "design": "other/unspecified",
+    "n": ""
+   }
+  ]
+ },
+ "actovegin": {
+  "slug": "actovegin",
+  "name": "Actovegin (deproteinized calf-blood hemodialysate)",
+  "tier": 3,
+  "grade": "C/D for sport; anecdotal",
+  "gradeLetter": "C",
+  "classKey": "healing",
+  "classLabel": "Healing / repair",
+  "goals": [
+   "recovery"
+  ],
+  "goalLabels": [
+   "Recovery / injury"
+  ],
+  "summary": "Origin: Austria/Russia (Takeda, later others); widely used in Russia/E. Europe. Citations verified: yes. 0 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "",
+  "oneLiner": "Origin: Austria/Russia (Takeda, later others); widely used in Russia/E.",
+  "fda": "",
+  "compounding": "",
+  "dea": "",
+  "wada": "",
+  "studyCount": 0,
+  "studies": []
+ },
+ "bromantane": {
+  "slug": "bromantane",
+  "name": "Bromantane (Ladasten) [NEW, sport]",
+  "tier": 3,
+  "grade": "B-",
+  "gradeLetter": "B",
+  "classKey": "nootropic",
+  "classLabel": "Nootropic / neuro peptides",
+  "goals": [
+   "cognition"
+  ],
+  "goalLabels": [
+   "Cognition"
+  ],
+  "summary": "Origin: Russia. Citations verified: yes. 2 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "",
+  "oneLiner": "Origin: Russia.",
+  "fda": "",
+  "compounding": "",
+  "dea": "",
+  "wada": "",
+  "studyCount": 2,
+  "studies": [
+   {
+    "name": "Multicenter Ladasten study 2010.",
+    "label": "",
+    "pmid": "20559263",
+    "doi": "",
+    "year": "2010",
+    "design": "other/unspecified",
+    "n": 728
+   },
+   {
+    "name": "Ladasten vs placebo in neurasthenia 2009.",
+    "label": "",
+    "pmid": "19491814",
+    "doi": "",
+    "year": "2009",
+    "design": "RCT",
+    "n": ""
+   }
+  ]
+ },
+ "china-glp1": {
+  "slug": "china-glp1",
+  "name": "Chinese GLP-1 agonists: beinaglutide, PEG-loxenatide [NEW split]",
+  "tier": 3,
+  "grade": "A- (phase 3 RCTs)",
+  "gradeLetter": "A",
+  "classKey": "glp1",
+  "classLabel": "GLP-1 / incretins & amylin",
+  "goals": [
+   "weight-loss"
+  ],
+  "goalLabels": [
+   "Weight loss"
+  ],
+  "summary": "Origin: China. Citations verified: yes. 2 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "",
+  "oneLiner": "Origin: China.",
+  "fda": "",
+  "compounding": "",
+  "dea": "",
+  "wada": "",
+  "studyCount": 2,
+  "studies": [
+   {
+    "name": "Beinaglutide phase 3 RCT, Diabetes Obes Metab 2024.",
+    "label": "",
+    "pmid": "37945546",
+    "doi": "",
+    "year": "2024",
+    "design": "RCT",
+    "n": 427
+   },
+   {
+    "name": "PEG-loxenatide phase 3b add-on to metformin.",
+    "label": "",
+    "pmid": "32744358",
+    "doi": "",
+    "year": "",
+    "design": "RCT",
+    "n": ""
+   }
+  ]
+ },
+ "cortexin": {
+  "slug": "cortexin",
+  "name": "Cortexin (Кортексин)",
+  "tier": 3,
+  "grade": "B (one placebo-controlled RCT, Russian; Cochrane included it)",
+  "gradeLetter": "B",
+  "classKey": "nootropic",
+  "classLabel": "Nootropic / neuro peptides",
+  "goals": [
+   "cognition"
+  ],
+  "goalLabels": [
+   "Cognition"
+  ],
+  "summary": "Origin: Russia (Geropharm). Citations verified: yes. 3 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Polypeptide fraction from cerebral cortex of livestock; claimed neuroprotective.",
+  "oneLiner": "Polypeptide fraction from cerebral cortex of livestock; claimed neuroprotective.",
+  "fda": "",
+  "compounding": "",
+  "dea": "",
+  "wada": "",
+  "studyCount": 3,
+  "studies": [
+   {
+    "name": "Cochrane 2023 update (Cerebrolysin and Cortexin for acute ischaemic stroke).",
+    "label": "",
+    "pmid": "",
+    "doi": "",
+    "year": "2023",
+    "design": "systematic review",
+    "n": ""
+   },
+   {
+    "name": "2014 PubMed report of the Cortexin low-dose stroke trial.",
+    "label": "",
+    "pmid": "24874316",
+    "doi": "",
+    "year": "2014",
+    "design": "RCT",
+    "n": 272
+   },
+   {
+    "name": "Stakhovskaya et al., Bulletin of the Russian Military Medical Academy (RCT, n=272).",
+    "label": "",
+    "pmid": "",
+    "doi": "",
+    "year": "",
+    "design": "RCT",
+    "n": 272
+   }
+  ]
+ },
+ "cycloferon": {
+  "slug": "cycloferon",
+  "name": "Cycloferon (meglumine acridonacetate)",
+  "tier": 3,
+  "grade": "B- (one placebo RCT)",
+  "gradeLetter": "B",
+  "classKey": "immune",
+  "classLabel": "Immune / thymic",
+  "goals": [],
+  "goalLabels": [],
+  "summary": "Origin: Russia (Polysan). Citations verified: yes. 3 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Low-molecular-weight interferon inducer (non-peptide).",
+  "oneLiner": "Low-molecular-weight interferon inducer (non-peptide).",
+  "fda": "",
+  "compounding": "",
+  "dea": "",
+  "wada": "",
+  "studyCount": 3,
+  "studies": [
+   {
+    "name": "Results publication 2025.",
+    "label": "",
+    "pmid": "",
+    "doi": "10.17116/profmed20252804157",
+    "year": "2025",
+    "design": "RCT",
+    "n": 166
+   },
+   {
+    "name": "Cycloferon PEP trial.",
+    "label": "",
+    "pmid": "",
+    "doi": "",
+    "year": "",
+    "design": "RCT",
+    "n": 166
+   },
+   {
+    "name": "Cycloferon influenza multicenter randomized study.",
+    "label": "",
+    "pmid": "20201401",
+    "doi": "",
+    "year": "",
+    "design": "RCT",
+    "n": ""
+   }
+  ]
+ },
+ "cytogens-cytomaxes": {
+  "slug": "cytogens-cytomaxes",
+  "name": "Khavinson short peptides (Cytogens/'peptide bioregulators': Pinealon EDR, Vilon KE, Livagen, etc.)",
+  "tier": 3,
+  "grade": "C",
+  "gradeLetter": "C",
+  "classKey": "bioregulator",
+  "classLabel": "Bioregulators",
+  "goals": [
+   "longevity"
+  ],
+  "goalLabels": [
+   "Longevity"
+  ],
+  "summary": "Origin: Russia. Citations verified: partial. 0 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Hypothesis that di-/tripeptides enter cells and bind histones/DNA to alter gene expression. Khavinson et al. 2020 review proposes Pinealon (Glu-Asp-Arg) binds histones/RNA/DNA and modulates MAPK/ERK, caspase-3/p53, SOD2/GPX1 and other pathways in Alzheimer's models 1; a 2022 systematic review on peptide regulation of gene expression 2.",
+  "oneLiner": "Hypothesis that di-/tripeptides enter cells and bind histones/DNA to alter gene expression.",
+  "fda": "",
+  "compounding": "",
+  "dea": "",
+  "wada": "",
+  "studyCount": 0,
+  "studies": []
+ },
+ "dalargin": {
+  "slug": "dalargin",
+  "name": "Dalargin (Даларгин)",
+  "tier": 3,
+  "grade": "C/B- (no verified indexed RCT)",
+  "gradeLetter": "C",
+  "classKey": "healing",
+  "classLabel": "Healing / repair",
+  "goals": [
+   "recovery"
+  ],
+  "goalLabels": [
+   "Recovery / injury"
+  ],
+  "summary": "Origin: USSR/Russia. Citations verified: partial. 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Synthetic Leu-enkephalin analog Tyr-D-Ala-Gly-Phe-Leu-Arg.",
+  "oneLiner": "Synthetic Leu-enkephalin analog Tyr-D-Ala-Gly-Phe-Leu-Arg.",
+  "fda": "",
+  "compounding": "",
+  "dea": "",
+  "wada": "",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Dalargin/Leitragin COVID-19 trial.",
+    "label": "",
+    "pmid": "",
+    "doi": "",
+    "year": "",
+    "design": "RCT",
+    "n": 320
+   }
+  ]
+ },
+ "ecdysterone": {
+  "slug": "ecdysterone",
+  "name": "Ecdysterone (20-hydroxyecdysone) [NEW, sport]",
+  "tier": 3,
+  "grade": "B- (conflicting small RCTs)",
+  "gradeLetter": "B",
+  "classKey": "metabolic",
+  "classLabel": "Metabolic (other)",
+  "goals": [
+   "muscle"
+  ],
+  "goalLabels": [
+   "Muscle / body composition"
+  ],
+  "summary": "Origin: USSR-origin research (Leuzea/Rhaponticum); global supplement. Citations verified: yes. 3 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "",
+  "oneLiner": "Origin: USSR-origin research (Leuzea/Rhaponticum); global supplement.",
+  "fda": "",
+  "compounding": "",
+  "dea": "",
+  "wada": "",
+  "studyCount": 3,
+  "studies": [
+   {
+    "name": "Ecdysterone supplements analysis (Separations 2023).",
+    "label": "",
+    "pmid": "",
+    "doi": "",
+    "year": "2023",
+    "design": "other/unspecified",
+    "n": ""
+   },
+   {
+    "name": "Isenmann E et al. Arch Toxicol 2019.",
+    "label": "",
+    "pmid": "31123801",
+    "doi": "",
+    "year": "2019",
+    "design": "other/unspecified",
+    "n": 46
+   },
+   {
+    "name": "Narrative review (summarizes Wilborn 2006 and Soviet-era work).",
+    "label": "",
+    "pmid": "",
+    "doi": "10.5812/asjsm.110753",
+    "year": "",
+    "design": "review (narrative)",
+    "n": ""
+   }
+  ]
+ },
+ "efpeglenatide": {
+  "slug": "efpeglenatide",
+  "name": "Efpeglenatide (Korea, Hanmi) [NEW, replaces Korea placeholder]",
+  "tier": 3,
+  "grade": "A- (one large CVOT)",
+  "gradeLetter": "A",
+  "classKey": "glp1",
+  "classLabel": "GLP-1 / incretins & amylin",
+  "goals": [
+   "weight-loss"
+  ],
+  "goalLabels": [
+   "Weight loss"
+  ],
+  "summary": "Origin: South Korea. Citations verified: yes. 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "",
+  "oneLiner": "Origin: South Korea.",
+  "fda": "",
+  "compounding": "",
+  "dea": "",
+  "wada": "",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Cardiovascular and Renal Outcomes with Efpeglenatide in Type 2 Diabetes. NEJM 2021.",
+    "label": "",
+    "pmid": "34215025",
+    "doi": "",
+    "year": "2021",
+    "design": "RCT",
+    "n": 4076
+   }
+  ]
+ },
+ "heberprot-p": {
+  "slug": "heberprot-p",
+  "name": "Heberprot-P (recombinant human EGF) — Cuba",
+  "tier": 3,
+  "grade": "B (one RCT + open series)",
+  "gradeLetter": "B",
+  "classKey": "healing",
+  "classLabel": "Healing / repair",
+  "goals": [
+   "recovery",
+   "skin"
+  ],
+  "goalLabels": [
+   "Recovery / injury",
+   "Skin"
+  ],
+  "summary": "Origin: Cuba (CIGB). Citations verified: yes. 2 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "",
+  "oneLiner": "Origin: Cuba (CIGB).",
+  "fda": "",
+  "compounding": "",
+  "dea": "",
+  "wada": "",
+  "studyCount": 2,
+  "studies": [
+   {
+    "name": "Fernández-Montequín JI et al. Int Wound J 2009.",
+    "label": "",
+    "pmid": "20051095",
+    "doi": "",
+    "year": "2009",
+    "design": "RCT",
+    "n": 149
+   },
+   {
+    "name": "Heberprot-P treatment up to complete wound closure.",
+    "label": "",
+    "pmid": "19291119",
+    "doi": "",
+    "year": "",
+    "design": "other/unspecified",
+    "n": ""
+   }
+  ]
+ },
+ "imunofan": {
+  "slug": "imunofan",
+  "name": "Imunofan (Arg-α-Asp-Lys-Val-Tyr-Arg) [NEW]",
+  "tier": 3,
+  "grade": "C/B-",
+  "gradeLetter": "C",
+  "classKey": "immune",
+  "classLabel": "Immune / thymic",
+  "goals": [],
+  "goalLabels": [],
+  "summary": "Origin: Russia. Citations verified: partial. 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Synthetic hexapeptide (thymopoietin fragment-derived) immunomodulator 1.",
+  "oneLiner": "Synthetic hexapeptide (thymopoietin fragment-derived) immunomodulator 1.",
+  "fda": "",
+  "compounding": "",
+  "dea": "",
+  "wada": "",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Imunofan in T2D patients with diabetic foot syndrome.",
+    "label": "",
+    "pmid": "20481041",
+    "doi": "",
+    "year": "",
+    "design": "other/unspecified",
+    "n": ""
+   }
+  ]
+ },
+ "meldonium": {
+  "slug": "meldonium",
+  "name": "Meldonium (Mildronate) [NEW, sport]",
+  "tier": 3,
+  "grade": "B- clinical (few trials); performance benefit unproven",
+  "gradeLetter": "B",
+  "classKey": "metabolic",
+  "classLabel": "Metabolic (other)",
+  "goals": [],
+  "goalLabels": [],
+  "summary": "Origin: Latvia (Grindeks); used in Russia/E. Europe. Citations verified: yes. 0 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Inhibits carnitine biosynthesis → reduced β-oxidation, shift to glycolysis; anti-ischemic 2.",
+  "oneLiner": "Inhibits carnitine biosynthesis → reduced β-oxidation, shift to glycolysis; anti-ischemic 2.",
+  "fda": "",
+  "compounding": "",
+  "dea": "",
+  "wada": "",
+  "studyCount": 0,
+  "studies": []
+ },
+ "mexidol": {
+  "slug": "mexidol",
+  "name": "Mexidol (emoxypine succinate)",
+  "tier": 3,
+  "grade": "B (one placebo RCT)",
+  "gradeLetter": "B",
+  "classKey": "nootropic",
+  "classLabel": "Nootropic / neuro peptides",
+  "goals": [
+   "cognition"
+  ],
+  "goalLabels": [
+   "Cognition"
+  ],
+  "summary": "Origin: Russia (Pharmasoft). Citations verified: yes. 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "3-hydroxypyridine antioxidant (non-peptide).",
+  "oneLiner": "3-hydroxypyridine antioxidant (non-peptide).",
+  "fda": "",
+  "compounding": "",
+  "dea": "",
+  "wada": "",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Stakhovskaya LV et al. EPICA. Zh Nevrol Psikhiatr 2017.",
+    "label": "",
+    "pmid": "28665371",
+    "doi": "",
+    "year": "2017",
+    "design": "RCT",
+    "n": 150
+   }
+  ]
+ },
+ "noopept": {
+  "slug": "noopept",
+  "name": "Noopept (omberacetam, GVS-111)",
+  "tier": 3,
+  "grade": "B-",
+  "gradeLetter": "B",
+  "classKey": "nootropic",
+  "classLabel": "Nootropic / neuro peptides",
+  "goals": [
+   "cognition"
+  ],
+  "goalLabels": [
+   "Cognition"
+  ],
+  "summary": "Origin: Russia (Zakusov Institute). Citations verified: yes. 2 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "N-phenylacetyl-L-prolylglycine ethyl ester (dipeptide-derived).",
+  "oneLiner": "N-phenylacetyl-L-prolylglycine ethyl ester (dipeptide-derived).",
+  "fda": "",
+  "compounding": "",
+  "dea": "",
+  "wada": "",
+  "studyCount": 2,
+  "studies": [
+   {
+    "name": "Neznamov GG, Teleshova ES. Comparative studies of Noopept and piracetam... Neurosci Behav Physiol 2009.",
+    "label": "",
+    "pmid": "19234797",
+    "doi": "",
+    "year": "2009",
+    "design": "RCT",
+    "n": ""
+   },
+   {
+    "name": "Noopept in mild cognitive impairment in patients with stroke.",
+    "label": "",
+    "pmid": "22500312",
+    "doi": "",
+    "year": "",
+    "design": "other/unspecified",
+    "n": ""
+   }
+  ]
+ },
+ "oral-turinabol": {
+  "slug": "oral-turinabol",
+  "name": "Oral-Turinabol (4-chlorodehydromethyltestosterone) — GDR history [NEW, sport]",
+  "tier": 3,
+  "grade": "History/toxicology only",
+  "gradeLetter": "D",
+  "classKey": "aas",
+  "classLabel": "Androgens / AAS",
+  "goals": [
+   "muscle"
+  ],
+  "goalLabels": [
+   "Muscle / body composition"
+  ],
+  "summary": "Origin: East Germany (VEB Jenapharm). Citations verified: yes. 2 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "",
+  "oneLiner": "Origin: East Germany (VEB Jenapharm).",
+  "fda": "",
+  "compounding": "",
+  "dea": "",
+  "wada": "",
+  "studyCount": 2,
+  "studies": [
+   {
+    "name": "Cancer 1999 case report.",
+    "label": "",
+    "pmid": "",
+    "doi": "",
+    "year": "1999",
+    "design": "case report/series",
+    "n": ""
+   },
+   {
+    "name": "Franke WW, Berendonk B. Clin Chem 1997;43:1262-79.",
+    "label": "",
+    "pmid": "9216474",
+    "doi": "",
+    "year": "1997",
+    "design": "other/unspecified",
+    "n": ""
+   }
+  ]
+ },
+ "phenibut": {
+  "slug": "phenibut",
+  "name": "Phenibut (β-phenyl-GABA)",
+  "tier": 3,
+  "grade": "B- (old Russian clinical use); harm data strong",
+  "gradeLetter": "B",
+  "classKey": "nootropic",
+  "classLabel": "Nootropic / neuro peptides",
+  "goals": [
+   "sleep",
+   "cognition"
+  ],
+  "goalLabels": [
+   "Sleep",
+   "Cognition"
+  ],
+  "summary": "Origin: USSR/Russia (1960s). Citations verified: yes. 3 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "GABA-B (some GABA-A) agonist, baclofen analog 1.",
+  "oneLiner": "GABA-B (some GABA-A) agonist, baclofen analog 1.",
+  "fda": "",
+  "compounding": "",
+  "dea": "",
+  "wada": "",
+  "studyCount": 3,
+  "studies": [
+   {
+    "name": "CDC MMWR 2020 poison center exposures.",
+    "label": "",
+    "pmid": "",
+    "doi": "",
+    "year": "2020",
+    "design": "other/unspecified",
+    "n": ""
+   },
+   {
+    "name": "Systematic review of phenibut toxicity and withdrawal (J Addict Med).",
+    "label": "",
+    "pmid": "",
+    "doi": "10.1097/adm.0000000000001141",
+    "year": "",
+    "design": "systematic review",
+    "n": ""
+   },
+   {
+    "name": "Phenibut withdrawal treatment review (J Clin Pharmacol).",
+    "label": "",
+    "pmid": "",
+    "doi": "10.1002/jcph.2414",
+    "year": "",
+    "design": "review (narrative)",
+    "n": ""
+   }
+  ]
+ },
+ "phenylpiracetam": {
+  "slug": "phenylpiracetam",
+  "name": "Phenylpiracetam (fonturacetam, Phenotropil, carphedon)",
+  "tier": 3,
+  "grade": "B-",
+  "gradeLetter": "B",
+  "classKey": "nootropic",
+  "classLabel": "Nootropic / neuro peptides",
+  "goals": [
+   "cognition"
+  ],
+  "goalLabels": [
+   "Cognition"
+  ],
+  "summary": "Origin: Russia. Citations verified: yes. 2 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "",
+  "oneLiner": "Origin: Russia.",
+  "fda": "",
+  "compounding": "",
+  "dea": "",
+  "wada": "",
+  "studyCount": 2,
+  "studies": [
+   {
+    "name": "Phenotropil add-on in focal epilepsy.",
+    "label": "",
+    "pmid": "25591651",
+    "doi": "",
+    "year": "",
+    "design": "RCT",
+    "n": 90
+   },
+   {
+    "name": "Phenotropil in stroke rehabilitation.",
+    "label": "",
+    "pmid": "21626817",
+    "doi": "",
+    "year": "",
+    "design": "other/unspecified",
+    "n": ""
+   }
+  ]
+ },
+ "thymalin": {
+  "slug": "thymalin",
+  "name": "Thymalin (Тималин)",
+  "tier": 3,
+  "grade": "B-",
+  "gradeLetter": "B",
+  "classKey": "bioregulator",
+  "classLabel": "Bioregulators",
+  "goals": [
+   "longevity"
+  ],
+  "goalLabels": [
+   "Longevity"
+  ],
+  "summary": "Origin: USSR/Russia (Morozov & Khavinson). Citations verified: yes. 1 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Polypeptide complex extracted from bovine thymus; immunomodulator (T-cell function).",
+  "oneLiner": "Polypeptide complex extracted from bovine thymus; immunomodulator (T-cell function).",
+  "fda": "",
+  "compounding": "",
+  "dea": "",
+  "wada": "",
+  "studyCount": 1,
+  "studies": [
+   {
+    "name": "Khavinson & Morozov 2003.",
+    "label": "",
+    "pmid": "14523363",
+    "doi": "",
+    "year": "2003",
+    "design": "observational",
+    "n": ""
+   }
+  ]
+ },
+ "thymogen": {
+  "slug": "thymogen",
+  "name": "Thymogen (Тимоген, α-Glu-Trp)",
+  "tier": 3,
+  "grade": "B- (Russian clinical use; no verified RCT cited)",
+  "gradeLetter": "B",
+  "classKey": "immune",
+  "classLabel": "Immune / thymic",
+  "goals": [],
+  "goalLabels": [],
+  "summary": "Origin: Russia (Cytomed). Citations verified: partial. 0 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "Synthetic dipeptide alpha-glutamyl-tryptophan (immunomodulator derived from thymalin research).",
+  "oneLiner": "Synthetic dipeptide alpha-glutamyl-tryptophan (immunomodulator derived from thymalin research).",
+  "fda": "",
+  "compounding": "",
+  "dea": "",
+  "wada": "",
+  "studyCount": 0,
+  "studies": []
+ },
+ "trimetazidine": {
+  "slug": "trimetazidine",
+  "name": "Trimetazidine [NEW, sport]",
+  "tier": 3,
+  "grade": "—",
+  "gradeLetter": "D",
+  "classKey": "metabolic",
+  "classLabel": "Metabolic (other)",
+  "goals": [],
+  "goalLabels": [],
+  "summary": "Origin: France origin; heavy use in Russia/E. Europe. Citations verified: partial. 0 human study record(s) in the FitClinicMD studies database.",
+  "mechanism": "",
+  "oneLiner": "Origin: France origin; heavy use in Russia/E.",
+  "fda": "",
+  "compounding": "",
+  "dea": "",
+  "wada": "",
+  "studyCount": 0,
+  "studies": []
+ }
+}

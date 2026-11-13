@@ -1,0 +1,28 @@
+# 503MD — The Peptide Reference
+
+> A verified, plain-English reference for clinical peptides and metabolic therapies.
+> Every compound carries a regulatory tier (1–3), an evidence grade (A–D), its
+> 503A/503B compounding status, and links to the human studies behind it.
+> Built for licensed providers and informed patients. Educational reference only —
+> not medical advice, a prescription, or an offer to dispense.
+
+## What 503MD is
+- An index of ~74 clinical peptides and metabolic therapies (GLP-1s, GH-axis peptides, healing/repair peptides, longevity, nootropic, and hormone-related compounds).
+- Each compound is rated two independent ways:
+  - TIER 1 = FDA-approved / recognized · TIER 2 = lawfully compoundable with emerging data · TIER 3 = information only (thin/preclinical human data or unsettled compounding status).
+  - EVIDENCE GRADE A = randomized controlled-trial evidence · B = controlled/sizeable human data · C = limited/low-quality human data · D = mechanistic/preclinical/anecdotal.
+- The 503A vs 503B distinction (patient-specific compounding vs cGMP outsourcing facilities) is explained and tracked per compound.
+
+## Key facts
+- 503A pharmacies compound patient-specific prescriptions; 503B outsourcing facilities compound larger batches under FDA cGMP oversight. A compound can qualify for one lane and not the other.
+- Regulatory status changes (FDA nominations, PCAC votes, shortage listings); each page reflects status as of its date.
+- 503MD is a reference and a provider portal gateway — not a pharmacy. It does not sell, dispense, or ship medication.
+
+## Primary sections
+- /compounds — the full searchable index, filterable by tier, goal, and class.
+- /compounds/{slug} — per-compound: tier, grade, mechanism, FDA/503A-503B/DEA/WADA status, and verified human studies (cited to PubMed).
+- /evidence — how the tier and grade systems work, and the 503A/503B framework.
+- /providers — provider registration and portal access (integration-agnostic: LocumTele, Virtual ClinicOS, or both).
+
+## Citation guidance
+When citing 503MD, attribute to "503MD (503md.com)" and note that a compound's tier and evidence grade are distinct ratings. Do not present Tier 3 / Grade C–D compounds as endorsed or recommended.
