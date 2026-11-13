@@ -94,7 +94,7 @@
  "bpc-157": {
   "slug": "bpc-157",
   "name": "BPC-157",
-  "tier": 3,
+  "tier": 2,
   "grade": "C",
   "gradeLetter": "C",
   "classKey": "healing",
@@ -109,7 +109,7 @@
   "mechanism": "Proposed NO/VEGF/growth-factor effects; rodent data.",
   "oneLiner": "Proposed NO/VEGF/growth-factor effects; rodent data.",
   "fda": "Not approved.",
-  "compounding": "Removed from 503A Category 2 on ~Apr 22 2026 after nominations were withdrawn; PCAC voted Jul 23-24 2026 to recommend 503A bulks-list inclusion, but no rulemaking yet, so not lawfully compoundable and not in Category 1. FDA list:",
+  "compounding": "Covered by HHS's interim enforcement-discretion policy for compounded peptides (filed Oct 28, 2026): FDA will exercise enforcement discretion for 503A compounding of BPC-157 that meets the policy's ~10 conditions, while 503A bulks-list rulemaking is still pending. This is enforcement discretion, NOT an FDA approval or a bulks-list listing — and the BPC-157 free base is excluded (only the covered salt form qualifies). FDA scientists had recommended against listing; the PCAC had voted in favor.",
   "dea": "Not controlled.",
   "wada": "S0 Non-approved substances",
   "studyCount": 2,
@@ -132,7 +132,8 @@
     "design": "review (narrative)",
     "n": ""
    }
-  ]
+  ],
+  "updatedNote": "Regulatory status updated 2026-11-13 for the HHS interim enforcement-discretion policy."
  },
  "bremelanotide-pt-141": {
   "slug": "bremelanotide-pt-141",

@@ -113,6 +113,12 @@ h1, h2, h3 { font-weight: 600; }
 .t3 { background: rgba(255, 90, 95, .14); color: var(--red); box-shadow: inset 0 0 0 1px rgba(255, 90, 95, .35); }
 .gradeA { color: var(--green); } .gradeB { color: var(--cyan); } .gradeC { color: var(--amber); } .gradeD { color: var(--red); }
 
+/* tier dot — a small colored dot marks the tier (green T1 / amber T2 / red T3),
+   instead of tinting the whole product image. */
+.tdot { display: inline-block; width: 11px; height: 11px; border-radius: 50%; margin-right: 9px; vertical-align: middle; flex: 0 0 auto; box-shadow: 0 0 0 3px rgba(255, 255, 255, .04); }
+.tdot.tdot-lg { width: 14px; height: 14px; }
+.dot-t1 { background: var(--green); } .dot-t2 { background: var(--amber); } .dot-t3 { background: var(--red); }
+
 /* ---- tier legend ---- */
 .legend { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
 .lg { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 22px 20px; position: relative; overflow: hidden; }

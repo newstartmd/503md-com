@@ -27,6 +27,32 @@ for s in studies:
     for slug in s.get("compound_pages", []) or []:
         by_slug.setdefault(slug, []).append(s)
 
+# ---------------------------------------------------------------------------
+# Manual overrides applied AFTER generation, so corrections survive a re-run
+# from the (slower-moving) upstream library. Each key patches that compound's
+# generated record. Use for regulatory status that has changed since the
+# library snapshot. Keep the reason + date in the note.
+# ---------------------------------------------------------------------------
+OVERRIDES = {
+    # 2026-11-13: HHS filed an interim enforcement-discretion policy (Oct 28,
+    # 2026) covering six compounded peptides including BPC-157. That makes it
+    # compoundable under enforcement discretion (not an approval) — Tier 2, not
+    # Tier 3. Evidence grade stays C (human data is unchanged and still thin).
+    "bpc-157": {
+        "tier": 2,
+        "compounding": (
+            "Covered by HHS's interim enforcement-discretion policy for compounded "
+            "peptides (filed Oct 28, 2026): FDA will exercise enforcement discretion "
+            "for 503A compounding of BPC-157 that meets the policy's ~10 conditions, "
+            "while 503A bulks-list rulemaking is still pending. This is enforcement "
+            "discretion, NOT an FDA approval or a bulks-list listing — and the "
+            "BPC-157 free base is excluded (only the covered salt form qualifies). "
+            "FDA scientists had recommended against listing; the PCAC had voted in favor."
+        ),
+        "updatedNote": "Regulatory status updated 2026-11-13 for the HHS interim enforcement-discretion policy.",
+    },
+}
+
 
 def sections(md):
     out, cur = {}, "_head"
@@ -121,6 +147,8 @@ for slug, base in compounds.items():
         "studyCount": len(st),
         "studies": st,
     }
+    if slug in OVERRIDES:
+        out[slug].update(OVERRIDES[slug])
 
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
 json.dump(out, open(OUT, "w"), indent=1, ensure_ascii=False)
