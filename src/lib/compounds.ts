@@ -29,6 +29,7 @@ export type Compound = {
   wada: string;
   studyCount: number;
   studies: Study[];
+  updatedNote?: string;
 };
 
 const MAP = data as unknown as Record<string, Compound>;

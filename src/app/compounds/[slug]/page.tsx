@@ -61,10 +61,9 @@ export default async function CompoundDetail({
       <section className="detail">
         <div className="wrap">
           <div className="top">
-            <div className={`vial tc${c.tier}`}>
+            <div className="vial">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src="/vial.jpg" alt="" aria-hidden="true" />
-              <div className="veil" />
             </div>
             <div>
               <div className="badges">
@@ -74,7 +73,7 @@ export default async function CompoundDetail({
                 </span>
                 {c.classLabel && <span className="mono" style={{ fontSize: 12, color: "var(--cyan)" }}>{c.classLabel}</span>}
               </div>
-              <h1>{c.name}</h1>
+              <h1><span className={`tdot tdot-lg dot-t${c.tier}`} title={`Tier ${c.tier}`} aria-hidden="true" />{c.name}</h1>
               {(c.summary || c.oneLiner) && <p className="lead">{c.summary || c.oneLiner}</p>}
               {!!c.goalLabels.length && (
                 <p className="mono" style={{ fontSize: 12, color: "var(--dim)", marginTop: 12 }}>
@@ -86,6 +85,11 @@ export default async function CompoundDetail({
                   <div className="fact" key={k}><div className="k">{k}</div><div className="v">{v}</div></div>
                 ))}
               </div>
+              {c.updatedNote && (
+                <p className="mono" style={{ fontSize: 11.5, color: "var(--cyan)", marginTop: 12 }}>
+                  ↻ {c.updatedNote}
+                </p>
+              )}
             </div>
           </div>
 
